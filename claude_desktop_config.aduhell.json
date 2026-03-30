@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "aduhell": {
+      "command": "/opt/anaconda3/bin/python",
+      "args": [
+        "/Users/brass/Downloads/aduhell/mcp_aduhell_server.py"
+      ],
+      "env": {
+        "ADUHELL_ROOT": "/Users/brass/Downloads/aduhell"
+      }
+    }
+  }
+}

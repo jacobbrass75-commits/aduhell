@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ row.normalized_address }}</title>
+    <style>
+      :root {
+        --bg: #f5f1e8;
+        --panel: #fbf8f2;
+        --ink: #1d2a24;
+        --muted: #55615b;
+        --border: #d8cfbe;
+        --accent: #a43d2b;
+      }
+
+      body {
+        margin: 0;
+        padding: 28px;
+        font-family: "Avenir Next", "Segoe UI", sans-serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top left, rgba(164, 61, 43, 0.12), transparent 30%),
+          radial-gradient(circle at bottom right, rgba(31, 107, 67, 0.15), transparent 28%),
+          var(--bg);
+      }
+
+      .wrap {
+        max-width: 1100px;
+        margin: 0 auto;
+      }
+
+      .panel {
+        background: rgba(251, 248, 242, 0.95);
+        border: 1px solid var(--border);
+        border-radius: 18px;
+        padding: 18px 20px;
+        margin-bottom: 16px;
+      }
+
+      h1, h2 {
+        margin-top: 0;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 12px;
+      }
+
+      .metric {
+        padding: 12px;
+        border-radius: 14px;
+        border: 1px solid var(--border);
+        background: white;
+      }
+
+      .metric-label {
+        display: block;
+        font-size: 12px;
+        color: var(--muted);
+        margin-bottom: 4px;
+      }
+
+      .metric-value {
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+      ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      li + li {
+        margin-top: 6px;
+      }
+
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .button {
+        display: inline-block;
+        padding: 10px 12px;
+        border-radius: 12px;
+        background: white;
+        border: 1px solid var(--border);
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      pre {
+        white-space: pre-wrap;
+        word-break: break-word;
+        background: white;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 14px;
+        overflow: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <section class="panel">
+        <h1>{{ row.normalized_address }}</h1>
+        <p>APN {{ row.normalized_apn }}. Ranked {{ row.shortlist_rank }} with score {{ row.shortlist_score }} and tier {{ row.shortlist_tier }}.</p>
+        <div class="links">
+          <a class="button" href="/files/{{ row.property_id }}/property_brief.json" target="_blank" rel="noopener">property_brief.json</a>
+          <a class="button" href="/files/{{ row.property_id }}/property_brief.md" target="_blank" rel="noopener">property_brief.md</a>
+          <a class="button" href="/files/{{ row.property_id }}/asset_manifest.json" target="_blank" rel="noopener">asset_manifest.json</a>
+          <a class="button" href="/files/{{ row.property_id }}/render_prompt.txt" target="_blank" rel="noopener">render_prompt.txt</a>
+          <a class="button" href="/files/{{ row.property_id }}/review_checklist.md" target="_blank" rel="noopener">review_checklist.md</a>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Shortlist Snapshot</h2>
+        <div class="grid">
+          <div class="metric"><span class="metric-label">Recommended path</span><span class="metric-value">{{ row.recommended_primary_adu_path }}</span></div>
+          <div class="metric"><span class="metric-label">Lot square feet</span><span class="metric-value">{{ row.lot_sqft_numeric or row['Lot SqFt'] }}</span></div>
+          <div class="metric"><span class="metric-label">Primary square feet</span><span class="metric-value">{{ row.primary_sqft_numeric or row['Sq Ft'] }}</span></div>
+          <div class="metric"><span class="metric-label">Open-area proxy</span><span class="metric-value">{{ row.detached_adu_open_area_proxy_sqft }}</span></div>
+          <div class="metric"><span class="metric-label">Coverage proxy %</span><span class="metric-value">{{ row.building_coverage_proxy_pct }}</span></div>
+          <div class="metric"><span class="metric-label">Analysis confidence</span><span class="metric-value">{{ row.analysis_confidence }}</span></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Why It Ranks Well</h2>
+        <ul>
+          <li>{{ row.shortlist_reason_summary }}</li>
+        </ul>
+      </section>
+
+      <section class="panel">
+        <h2>Review Cautions</h2>
+        <ul>
+          <li>{{ row.shortlist_caution_summary }}</li>
+        </ul>
+      </section>
+
+      {% if bundle.property_brief %}
+      <section class="panel">
+        <h2>Approved Claims</h2>
+        <ul>
+          {% for item in bundle.property_brief.adu_analysis.approved_claims %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <section class="panel">
+        <h2>Constraints</h2>
+        <ul>
+          {% for item in bundle.property_brief.adu_analysis.constraints %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
+      <section class="panel">
+        <h2>Render Prompt</h2>
+        <pre>{{ bundle.render_prompt }}</pre>
+      </section>
+    </div>
+  </body>
+</html>

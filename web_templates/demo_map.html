@@ -1,0 +1,425 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LA City ADU Demo</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    >
+    <style>
+      :root {
+        --bg: #f5f1e8;
+        --panel: #fbf8f2;
+        --ink: #1d2a24;
+        --muted: #55615b;
+        --border: #d8cfbe;
+        --green-a: #1f6b43;
+        --green-b: #6f9d43;
+        --amber-c: #c0802f;
+        --gray-d: #7b7f7a;
+        --accent: #a43d2b;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Avenir Next", "Segoe UI", sans-serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top left, rgba(164, 61, 43, 0.12), transparent 30%),
+          radial-gradient(circle at bottom right, rgba(31, 107, 67, 0.15), transparent 28%),
+          var(--bg);
+      }
+
+      .shell {
+        display: grid;
+        grid-template-columns: 390px 1fr;
+        min-height: 100vh;
+      }
+
+      .sidebar {
+        padding: 20px 18px;
+        border-right: 1px solid var(--border);
+        background: rgba(251, 248, 242, 0.92);
+        overflow-y: auto;
+      }
+
+      .title {
+        margin: 0 0 6px;
+        font-size: 26px;
+        line-height: 1.05;
+      }
+
+      .subtitle {
+        margin: 0 0 18px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+        margin-bottom: 18px;
+      }
+
+      .stat {
+        padding: 12px;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        background: var(--panel);
+      }
+
+      .stat-label {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+        margin-bottom: 4px;
+      }
+
+      .stat-value {
+        font-size: 22px;
+        font-weight: 700;
+      }
+
+      .filters {
+        display: grid;
+        gap: 10px;
+        margin-bottom: 18px;
+      }
+
+      .filters input,
+      .filters select {
+        width: 100%;
+        padding: 10px 12px;
+        border-radius: 10px;
+        border: 1px solid var(--border);
+        background: white;
+        font-size: 14px;
+      }
+
+      .legend {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 0 0 16px;
+      }
+
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 7px 10px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: var(--panel);
+        font-size: 12px;
+      }
+
+      .chip-dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 999px;
+      }
+
+      .list {
+        display: grid;
+        gap: 10px;
+      }
+
+      .card {
+        padding: 12px;
+        border-radius: 14px;
+        border: 1px solid var(--border);
+        background: var(--panel);
+        cursor: pointer;
+        transition: transform 120ms ease, box-shadow 120ms ease;
+      }
+
+      .card:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 10px 24px rgba(29, 42, 36, 0.08);
+      }
+
+      .card h3 {
+        margin: 0 0 6px;
+        font-size: 15px;
+      }
+
+      .card p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 13px;
+        line-height: 1.35;
+      }
+
+      .badge-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 9px 0;
+      }
+
+      .badge {
+        display: inline-block;
+        padding: 4px 8px;
+        border-radius: 999px;
+        font-size: 12px;
+        color: white;
+      }
+
+      .map-wrap {
+        position: relative;
+      }
+
+      #map {
+        width: 100%;
+        height: 100vh;
+      }
+
+      .map-note {
+        position: absolute;
+        top: 16px;
+        right: 16px;
+        max-width: 320px;
+        padding: 12px 14px;
+        background: rgba(29, 42, 36, 0.88);
+        color: white;
+        border-radius: 14px;
+        font-size: 12px;
+        line-height: 1.4;
+        z-index: 600;
+      }
+
+      .empty {
+        color: var(--muted);
+        font-size: 13px;
+        padding: 20px 0;
+      }
+
+      a {
+        color: var(--accent);
+      }
+
+      @media (max-width: 980px) {
+        .shell {
+          grid-template-columns: 1fr;
+        }
+
+        .sidebar {
+          border-right: 0;
+          border-bottom: 1px solid var(--border);
+          max-height: 52vh;
+        }
+
+        #map {
+          height: 48vh;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar">
+        <h1 class="title">LA City ADU Opportunity Map</h1>
+        <p class="subtitle">Local demo over the best-effort LA City rules screen. Large lots and open-area proxies rise first, but this is still not a geometry-verified feasibility map.</p>
+
+        <section class="stats">
+          <div class="stat">
+            <span class="stat-label">Properties</span>
+            <span class="stat-value" id="stat-total">{{ summary.total_properties }}</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Geocoded</span>
+            <span class="stat-value" id="stat-geocoded">{{ summary.geocoded_properties }}</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Top 50</span>
+            <span class="stat-value" id="stat-top50">{{ summary.top_50_count }}</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Tier A</span>
+            <span class="stat-value" id="stat-tier-a">{{ summary.tier_breakdown.get('A', 0) }}</span>
+          </div>
+        </section>
+
+        <section class="filters">
+          <input id="searchInput" type="text" placeholder="Search APN or address">
+          <select id="tierFilter">
+            <option value="">All tiers</option>
+            <option value="A">Tier A</option>
+            <option value="B">Tier B</option>
+            <option value="C">Tier C</option>
+            <option value="D">Tier D</option>
+          </select>
+          <select id="pathFilter">
+            <option value="">All ADU paths</option>
+            <option value="detached_adu">Detached ADU</option>
+            <option value="attached_adu">Attached ADU</option>
+            <option value="jadu">JADU</option>
+            <option value="manual_review">Manual review</option>
+          </select>
+          <select id="topFilter">
+            <option value="">All ranked properties</option>
+            <option value="yes">Top 50 only</option>
+          </select>
+        </section>
+
+        <div class="legend">
+          <span class="chip"><span class="chip-dot" style="background: var(--green-a);"></span>Tier A</span>
+          <span class="chip"><span class="chip-dot" style="background: var(--green-b);"></span>Tier B</span>
+          <span class="chip"><span class="chip-dot" style="background: var(--amber-c);"></span>Tier C</span>
+          <span class="chip"><span class="chip-dot" style="background: var(--gray-d);"></span>Tier D</span>
+        </div>
+
+        <div id="resultsMeta" class="subtitle"></div>
+        <div id="resultsList" class="list"></div>
+      </aside>
+
+      <main class="map-wrap">
+        <div id="map"></div>
+        <div class="map-note">
+          Demo note: Google is kept out of the client-facing asset pipeline here. This map is for internal review, shortlist selection, and package handoff.
+        </div>
+      </main>
+    </div>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script>
+      const map = L.map("map", { zoomControl: true }).setView([34.0522, -118.2437], 10);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution: '&copy; OpenStreetMap contributors'
+      }).addTo(map);
+
+      const markerLayer = L.layerGroup().addTo(map);
+      let allRows = [];
+
+      function tierColor(tier) {
+        if (tier === "A") return "#1f6b43";
+        if (tier === "B") return "#6f9d43";
+        if (tier === "C") return "#c0802f";
+        return "#7b7f7a";
+      }
+
+      function markerRadius(score) {
+        const value = Number(score || 0);
+        if (value >= 95) return 10;
+        if (value >= 85) return 8;
+        if (value >= 70) return 7;
+        return 6;
+      }
+
+      function matchesFilters(row) {
+        const search = document.getElementById("searchInput").value.trim().toLowerCase();
+        const tier = document.getElementById("tierFilter").value;
+        const path = document.getElementById("pathFilter").value;
+        const topOnly = document.getElementById("topFilter").value;
+
+        if (search) {
+          const haystack = [
+            row.property_id,
+            row.normalized_apn,
+            row.APN,
+            row.normalized_address,
+            row.Address
+          ].join(" ").toLowerCase();
+          if (!haystack.includes(search)) return false;
+        }
+
+        if (tier && row.shortlist_tier !== tier) return false;
+        if (path && row.recommended_primary_adu_path !== path) return false;
+        if (topOnly && row.shortlist_in_top_candidates !== topOnly) return false;
+        return true;
+      }
+
+      function buildCard(row) {
+        const color = tierColor(row.shortlist_tier);
+        const card = document.createElement("article");
+        card.className = "card";
+        card.innerHTML = `
+          <h3>${row.normalized_address || row.Address || "Unknown address"}</h3>
+          <div class="badge-row">
+            <span class="badge" style="background:${color}">Tier ${row.shortlist_tier || "?"}</span>
+            <span class="badge" style="background:#34495e">Score ${row.shortlist_score || "0"}</span>
+            <span class="badge" style="background:#8b4b32">${(row.recommended_primary_adu_path || "manual_review").replaceAll("_", " ")}</span>
+          </div>
+          <p>${row.shortlist_reason_summary || ""}</p>
+          <p style="margin-top:8px;"><a href="/property/${row.property_id}" target="_blank" rel="noopener">Open property package</a></p>
+        `;
+        card.addEventListener("click", () => {
+          if (row.latitude && row.longitude) {
+            map.flyTo([Number(row.latitude), Number(row.longitude)], 15, { duration: 0.6 });
+          }
+        });
+        return card;
+      }
+
+      function render() {
+        markerLayer.clearLayers();
+        const filtered = allRows.filter(matchesFilters);
+        const resultsList = document.getElementById("resultsList");
+        resultsList.innerHTML = "";
+
+        const bounds = [];
+        filtered.forEach((row) => {
+          const lat = Number(row.latitude);
+          const lon = Number(row.longitude);
+          if (!Number.isNaN(lat) && !Number.isNaN(lon)) {
+            const marker = L.circleMarker([lat, lon], {
+              radius: markerRadius(row.shortlist_score),
+              color: tierColor(row.shortlist_tier),
+              weight: 2,
+              fillColor: tierColor(row.shortlist_tier),
+              fillOpacity: 0.72
+            });
+            marker.bindPopup(`
+              <strong>${row.normalized_address || row.Address || "Unknown address"}</strong><br>
+              Score: ${row.shortlist_score || "0"}<br>
+              Tier: ${row.shortlist_tier || "?"}<br>
+              Path: ${(row.recommended_primary_adu_path || "manual_review").replaceAll("_", " ")}<br>
+              <a href="/property/${row.property_id}" target="_blank" rel="noopener">Open package</a>
+            `);
+            marker.addTo(markerLayer);
+            bounds.push([lat, lon]);
+          }
+        });
+
+        filtered.slice(0, 150).forEach((row) => resultsList.appendChild(buildCard(row)));
+        document.getElementById("resultsMeta").textContent = `${filtered.length} properties match the current filters. Showing the first 150 in the list.`;
+
+        if (bounds.length) {
+          map.fitBounds(bounds, { padding: [24, 24] });
+        }
+
+        if (!filtered.length) {
+          resultsList.innerHTML = `<div class="empty">No properties match the current filters.</div>`;
+        }
+      }
+
+      async function boot() {
+        const response = await fetch("/api/properties");
+        allRows = await response.json();
+        render();
+      }
+
+      ["searchInput", "tierFilter", "pathFilter", "topFilter"].forEach((id) => {
+        document.getElementById(id).addEventListener("input", render);
+        document.getElementById(id).addEventListener("change", render);
+      });
+
+      boot();
+    </script>
+  </body>
+</html>

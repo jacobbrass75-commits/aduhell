@@ -1,0 +1,3171 @@
+{
+  "2850 MORAGA DR, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.12690459015,
+    "longitude": -118.467050927736,
+    "matched_address": "2850 MORAGA DR, LOS ANGELES, CA, 90077"
+  },
+  "8667 METZ PL, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.096310695612,
+    "longitude": -118.380341275218,
+    "matched_address": "8667 METZ PL, LOS ANGELES, CA, 90069"
+  },
+  "7026 SENALDA RD, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.11523394348,
+    "longitude": -118.34358684373,
+    "matched_address": "7026 SENALDA RD, LOS ANGELES, CA, 90068"
+  },
+  "3760 MAYFAIR DR, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.099062833405,
+    "longitude": -118.218628993839,
+    "matched_address": "3760 MAYFAIR DR, LOS ANGELES, CA, 90065"
+  },
+  "1740 BEL AIR RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.10230143558,
+    "longitude": -118.448507722908,
+    "matched_address": "1740 BEL AIR RD, LOS ANGELES, CA, 90077"
+  },
+  "1799 CORREA WAY, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.067028942779,
+    "longitude": -118.497546635535,
+    "matched_address": "1799 CORREA WAY, LOS ANGELES, CA, 90049"
+  },
+  "2101 HERCULES DR, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.108223726175,
+    "longitude": -118.363550234063,
+    "matched_address": "2101 HERCULES DR, LOS ANGELES, CA, 90046"
+  },
+  "898 N BUNDY DR, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.076828615735,
+    "longitude": -118.480527104564,
+    "matched_address": "898 N BUNDY DR, LOS ANGELES, CA, 90049"
+  },
+  "3546 MULTIVIEW DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.129357437899,
+    "longitude": -118.361585868413,
+    "matched_address": "3546 MULTIVIEW DR, LOS ANGELES, CA, 90068"
+  },
+  "2266 RONDA VISTA DR, LOS ANGELES, CA, 90027": {
+    "status": "matched",
+    "latitude": 34.103961941847,
+    "longitude": -118.275732428959,
+    "matched_address": "2266 RONDA VISTA DR, LOS ANGELES, CA, 90027"
+  },
+  "4427 DON FELIPE DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.00691751109,
+    "longitude": -118.351625688442,
+    "matched_address": "4427 DON FELIPE DR, LOS ANGELES, CA, 90008"
+  },
+  "1455 RISING GLEN RD, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.097607412852,
+    "longitude": -118.384086030526,
+    "matched_address": "1455 N RISING GLEN RD, LOS ANGELES, CA, 90069"
+  },
+  "13409 MCKINLEY AVE, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.909558307801,
+    "longitude": -118.260979658418,
+    "matched_address": "13409 MCKINLEY AVE, LOS ANGELES, CA, 90059"
+  },
+  "7865 LULU GLEN DR, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.122137047451,
+    "longitude": -118.368473540291,
+    "matched_address": "7865 LULU GLEN DR, LOS ANGELES, CA, 90046"
+  },
+  "5248 ARGUS DR, LOS ANGELES, CA, 90041": {
+    "status": "matched",
+    "latitude": 34.142431744548,
+    "longitude": -118.206204928331,
+    "matched_address": "5248 ARGUS DR, LOS ANGELES, CA, 90041"
+  },
+  "1521 N BONNIE BEACH PL, LOS ANGELES, CA, 90063": {
+    "status": "matched",
+    "latitude": 34.058551572624,
+    "longitude": -118.182788616433,
+    "matched_address": "1521 N BONNIE BEACH PL, LOS ANGELES, CA, 90063"
+  },
+  "852 W 84TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.962393569198,
+    "longitude": -118.288251003061,
+    "matched_address": "852 W 84TH ST, LOS ANGELES, CA, 90044"
+  },
+  "425 CANON CREST ST, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.100220471634,
+    "longitude": -118.210909793774,
+    "matched_address": "425 CANON CREST ST, LOS ANGELES, CA, 90065"
+  },
+  "1401 BEL AIR RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.096969226172,
+    "longitude": -118.445905888842,
+    "matched_address": "1401 BEL AIR RD, LOS ANGELES, CA, 90077"
+  },
+  "1000 BEL AIR RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.092661884832,
+    "longitude": -118.443664128507,
+    "matched_address": "1000 BEL AIR RD, LOS ANGELES, CA, 90077"
+  },
+  "1041 CHANTILLY RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.089985127124,
+    "longitude": -118.455161420233,
+    "matched_address": "1041 CHANTILLY RD, LOS ANGELES, CA, 90077"
+  },
+  "1111 BEL AIR PL, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.09409114379,
+    "longitude": -118.44435969013,
+    "matched_address": "1111 BEL AIR PL, LOS ANGELES, CA, 90077"
+  },
+  "10981 BELLAGIO RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.079810143327,
+    "longitude": -118.456928902794,
+    "matched_address": "10981 BELLAGIO RD, LOS ANGELES, CA, 90077"
+  },
+  "2420 HERCULES DR, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.115783755466,
+    "longitude": -118.367214902049,
+    "matched_address": "2420 HERCULES DR, LOS ANGELES, CA, 90046"
+  },
+  "3057 N BEVERLY GLEN CIR, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.128020953322,
+    "longitude": -118.44352620435,
+    "matched_address": "3057 N BEVERLY GLEN CIR, LOS ANGELES, CA, 90077"
+  },
+  "6105 MULHOLLAND HWY, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.131091373795,
+    "longitude": -118.320677699496,
+    "matched_address": "6105 MULHOLLAND HWY, LOS ANGELES, CA, 90068"
+  },
+  "10560 DOLCEDO WAY, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.093936363077,
+    "longitude": -118.448051463845,
+    "matched_address": "10560 DOLCEDO WAY, LOS ANGELES, CA, 90077"
+  },
+  "124 N WOODBURN DR, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.070050583613,
+    "longitude": -118.47012548137,
+    "matched_address": "124 N WOODBURN DR, LOS ANGELES, CA, 90049"
+  },
+  "4008 DON DIABLO DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.008318378402,
+    "longitude": -118.345022967805,
+    "matched_address": "4008 DON DIABLO DR, LOS ANGELES, CA, 90008"
+  },
+  "150 W 127TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.917607864976,
+    "longitude": -118.275367982688,
+    "matched_address": "150 W 127TH ST, LOS ANGELES, CA, 90061"
+  },
+  "13737 BAYLISS RD, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.078419668376,
+    "longitude": -118.507534886902,
+    "matched_address": "13737 BAYLISS RD, LOS ANGELES, CA, 90049"
+  },
+  "5500 RED OAK DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.112723946042,
+    "longitude": -118.309395095696,
+    "matched_address": "5500 RED OAK DR, LOS ANGELES, CA, 90068"
+  },
+  "1315 N WETHERLY DR, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.094221649168,
+    "longitude": -118.388817613338,
+    "matched_address": "1315 N WETHERLY DR, LOS ANGELES, CA, 90069"
+  },
+  "6642 S GARTH AVE, LOS ANGELES, CA, 90056": {
+    "status": "matched",
+    "latitude": 33.979255984848,
+    "longitude": -118.376072997862,
+    "matched_address": "6642 S GARTH AVE, LOS ANGELES, CA, 90056"
+  },
+  "11123 S ST ANDREWS PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.933782443266,
+    "longitude": -118.310934537586,
+    "matched_address": "11123 S SAINT ANDREWS PL, LOS ANGELES, CA, 90047"
+  },
+  "856 W 126TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.917807474237,
+    "longitude": -118.290691137104,
+    "matched_address": "856 W 126TH ST, LOS ANGELES, CA, 90044"
+  },
+  "4605 11TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 34.001741682029,
+    "longitude": -118.329415868562,
+    "matched_address": "4605 11TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "5139 TOWNSEND AVE, LOS ANGELES, CA, 90041": {
+    "status": "matched",
+    "latitude": 34.140328022811,
+    "longitude": -118.201083835443,
+    "matched_address": "5139 TOWNSEND AVE, LOS ANGELES, CA, 90041"
+  },
+  "1151 W 97TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.947831238997,
+    "longitude": -118.295014688256,
+    "matched_address": "1151 W 97TH ST, LOS ANGELES, CA, 90044"
+  },
+  "3007 S LA SALLE AVE, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.027186239268,
+    "longitude": -118.305411617543,
+    "matched_address": "3007 S LA SALLE AVE, LOS ANGELES, CA, 90018"
+  },
+  "3100 BRIGHTON AVE, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.026394875369,
+    "longitude": -118.301399629935,
+    "matched_address": "3100 BRIGHTON AVE, LOS ANGELES, CA, 90018"
+  },
+  "1929 CARMONA AVE, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.039807530453,
+    "longitude": -118.361385340595,
+    "matched_address": "1929 CARMONA AVE, LOS ANGELES, CA, 90016"
+  },
+  "2106 W 97TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.948323058003,
+    "longitude": -118.315609661814,
+    "matched_address": "2106 W 97TH ST, LOS ANGELES, CA, 90047"
+  },
+  "1622 S SPAULDING AVE, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.046335125358,
+    "longitude": -118.363631176648,
+    "matched_address": "1622 S SPAULDING AVE, LOS ANGELES, CA, 90019"
+  },
+  "11500 THURSTON CIR, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.075938816694,
+    "longitude": -118.466042212369,
+    "matched_address": "11500 THURSTON CIR, LOS ANGELES, CA, 90049"
+  },
+  "970 N BUNDY DR, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.077720416938,
+    "longitude": -118.481212236661,
+    "matched_address": "970 N BUNDY DR, LOS ANGELES, CA, 90049"
+  },
+  "6120 FLIGHT AVE, LOS ANGELES, CA, 90056": {
+    "status": "matched",
+    "latitude": 33.982948349996,
+    "longitude": -118.371635117579,
+    "matched_address": "6120 FLIGHT AVE, LOS ANGELES, CA, 90056"
+  },
+  "305 N WESTMORELAND AVE, LOS ANGELES, CA, 90004": {
+    "status": "matched",
+    "latitude": 34.076444394191,
+    "longitude": -118.288034182543,
+    "matched_address": "305 N WESTMORELAND AVE, LOS ANGELES, CA, 90004"
+  },
+  "5250 LIVE OAK VIEW AVE, LOS ANGELES, CA, 90041": {
+    "status": "matched",
+    "latitude": 34.142894571802,
+    "longitude": -118.221220877223,
+    "matched_address": "5250 LIVE OAK VIEW AVE, LOS ANGELES, CA, 90041"
+  },
+  "1037 BEL AIR CT, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.09301905809,
+    "longitude": -118.444536276286,
+    "matched_address": "1037 BEL AIR CT, LOS ANGELES, CA, 90077"
+  },
+  "2201 SUNSET PLAZA DR, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.099213525774,
+    "longitude": -118.38047179662,
+    "matched_address": "2201 SUNSET PLAZA DR, LOS ANGELES, CA, 90069"
+  },
+  "14820 MULHOLLAND DR, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.13234640826,
+    "longitude": -118.456106516271,
+    "matched_address": "14820 MULHOLLAND DR, LOS ANGELES, CA, 90077"
+  },
+  "3235 DOS PALOS DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.127821615785,
+    "longitude": -118.348060749208,
+    "matched_address": "3235 DOS PALOS DR, LOS ANGELES, CA, 90068"
+  },
+  "735 W 112TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.933428715551,
+    "longitude": -118.28828590891,
+    "matched_address": "735 W 112TH ST, LOS ANGELES, CA, 90044"
+  },
+  "378 W AVENUE 42, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.097077394752,
+    "longitude": -118.213240783623,
+    "matched_address": "378 W AVE 42, LOS ANGELES, CA, 90065"
+  },
+  "7707 AIRPORT BLVD, LOS ANGELES, CA, 90045": {
+    "status": "matched",
+    "latitude": 33.970642244073,
+    "longitude": -118.38787382719,
+    "matched_address": "7707 AIRPORT BLVD, LOS ANGELES, CA, 90045"
+  },
+  "165 VETERAN AVE, LOS ANGELES, CA, 90024": {
+    "status": "matched",
+    "latitude": 34.074640674365,
+    "longitude": -118.455451690482,
+    "matched_address": "165 VETERAN AVE, LOS ANGELES, CA, 90024"
+  },
+  "11107 RUTHELEN ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.933658710754,
+    "longitude": -118.312432081642,
+    "matched_address": "11107 RUTHELEN ST, LOS ANGELES, CA, 90047"
+  },
+  "942 TULAROSA DR, LOS ANGELES, CA, 90026": {
+    "status": "matched",
+    "latitude": 34.08368805655,
+    "longitude": -118.279598416619,
+    "matched_address": "942 TULAROSA DR, LOS ANGELES, CA, 90026"
+  },
+  "3598 GRIFFIN AVE, LOS ANGELES, CA, 90031": {
+    "status": "matched",
+    "latitude": 34.086604362139,
+    "longitude": -118.209170274073,
+    "matched_address": "3598 N GRIFFIN AVE, LOS ANGELES, CA, 90031"
+  },
+  "3977 DRYSDALE AVE, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.091761298729,
+    "longitude": -118.175648859515,
+    "matched_address": "3977 DRYSDALE AVE, LOS ANGELES, CA, 90032"
+  },
+  "4137 TERRAZA DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.013027479346,
+    "longitude": -118.364436456862,
+    "matched_address": "4137 TERRAZA DR, LOS ANGELES, CA, 90008"
+  },
+  "1722 REDESDALE AVE, LOS ANGELES, CA, 90026": {
+    "status": "matched",
+    "latitude": 34.09037808504,
+    "longitude": -118.269873685776,
+    "matched_address": "1722 REDESDALE AVE, LOS ANGELES, CA, 90026"
+  },
+  "4197 YORK BLVD, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.123624502416,
+    "longitude": -118.226183686703,
+    "matched_address": "4197 YORK BLVD, LOS ANGELES, CA, 90065"
+  },
+  "4714 11TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 34.000794873191,
+    "longitude": -118.32928232948,
+    "matched_address": "4714 11TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "4109 BRIGHTON AVE, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 34.00909693653,
+    "longitude": -118.301326426569,
+    "matched_address": "4109 BRIGHTON AVE, LOS ANGELES, CA, 90062"
+  },
+  "262 THORNE ST, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.112178340297,
+    "longitude": -118.180662640354,
+    "matched_address": "262 THORNE ST, LOS ANGELES, CA, 90042"
+  },
+  "1132 W 74TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.97267900508,
+    "longitude": -118.294726762674,
+    "matched_address": "1132 W 74TH ST, LOS ANGELES, CA, 90044"
+  },
+  "143 S HIGHLAND AVE, LOS ANGELES, CA, 90036": {
+    "status": "matched",
+    "latitude": 34.072498104906,
+    "longitude": -118.338716966308,
+    "matched_address": "143 S HIGHLAND AVE, LOS ANGELES, CA, 90036"
+  },
+  "4134 GUARDIA AVE, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.093721032044,
+    "longitude": -118.168619330773,
+    "matched_address": "4134 GUARDIA AVE, LOS ANGELES, CA, 90032"
+  },
+  "2047 W 78TH PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.968234694127,
+    "longitude": -118.314399358614,
+    "matched_address": "2047 W 78TH PL, LOS ANGELES, CA, 90047"
+  },
+  "1848 W 76TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.970856275703,
+    "longitude": -118.310056744723,
+    "matched_address": "1848 W 76TH ST, LOS ANGELES, CA, 90047"
+  },
+  "1235 W 123RD ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.921250457191,
+    "longitude": -118.297137575298,
+    "matched_address": "1235 W 123RD ST, LOS ANGELES, CA, 90044"
+  },
+  "2156 FARGO ST, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.091065010699,
+    "longitude": -118.256758920553,
+    "matched_address": "2156 FARGO ST, LOS ANGELES, CA, 90039"
+  },
+  "2808 GUIRADO ST, LOS ANGELES, CA, 90023": {
+    "status": "matched",
+    "latitude": 34.033433680217,
+    "longitude": -118.208927336051,
+    "matched_address": "2808 GUIRADO ST, LOS ANGELES, CA, 90023"
+  },
+  "4012 WOODLAWN AVE, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.01084730747,
+    "longitude": -118.272742806543,
+    "matched_address": "4012 WOODLAWN AVE, LOS ANGELES, CA, 90011"
+  },
+  "5722 HILLCREST DR, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.990376131247,
+    "longitude": -118.336614372107,
+    "matched_address": "5722 HILLCREST DR, LOS ANGELES, CA, 90043"
+  },
+  "10644 BELLAGIO RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.08118129767,
+    "longitude": -118.445542398706,
+    "matched_address": "10644 BELLAGIO RD, LOS ANGELES, CA, 90077"
+  },
+  "1000 N BUNDY DR, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.07809458965,
+    "longitude": -118.481493461952,
+    "matched_address": "1000 N BUNDY DR, LOS ANGELES, CA, 90049"
+  },
+  "2200 NICHOLS CANYON RD, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.110869572237,
+    "longitude": -118.360586225199,
+    "matched_address": "2200 NICHOLS CANYON RD, LOS ANGELES, CA, 90046"
+  },
+  "3436 LINDA VISTA TER, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.085287446183,
+    "longitude": -118.171557298552,
+    "matched_address": "3436 LINDA VISTA TER, LOS ANGELES, CA, 90032"
+  },
+  "4258 DON LUIS DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.005566738321,
+    "longitude": -118.346417685728,
+    "matched_address": "4258 DON LUIS DR, LOS ANGELES, CA, 90008"
+  },
+  "7136 GLASGOW AVE, LOS ANGELES, CA, 90045": {
+    "status": "matched",
+    "latitude": 33.97109153522,
+    "longitude": -118.372416760795,
+    "matched_address": "7136 GLASGOW AVE, LOS ANGELES, CA, 90045"
+  },
+  "9120 S VAN NESS AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.954126065637,
+    "longitude": -118.317653734233,
+    "matched_address": "9120 S VAN NESS AVE, LOS ANGELES, CA, 90047"
+  },
+  "1901 W 77TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.970030735611,
+    "longitude": -118.311244051909,
+    "matched_address": "1901 W 77TH ST, LOS ANGELES, CA, 90047"
+  },
+  "857 E 116TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.929221481379,
+    "longitude": -118.259389580113,
+    "matched_address": "857 E 116TH ST, LOS ANGELES, CA, 90059"
+  },
+  "8907 LA SALLE AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.95538275487,
+    "longitude": -118.30580838589,
+    "matched_address": "8907 LA SALLE AVE, LOS ANGELES, CA, 90047"
+  },
+  "800 E 107TH ST, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.93921657233,
+    "longitude": -118.260751607999,
+    "matched_address": "800 E 107TH ST, LOS ANGELES, CA, 90002"
+  },
+  "670 FINDLAY AVE, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.019060994972,
+    "longitude": -118.138242344762,
+    "matched_address": "670 FINDLAY AVE, LOS ANGELES, CA, 90022"
+  },
+  "10210 S MANHATTAN PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.943882266972,
+    "longitude": -118.310092368383,
+    "matched_address": "10210 S MANHATTAN PL, LOS ANGELES, CA, 90047"
+  },
+  "1110 W VERNON AVE, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.003624704561,
+    "longitude": -118.294185765718,
+    "matched_address": "1110 W VERNON AVE, LOS ANGELES, CA, 90037"
+  },
+  "7232 MIRAMONTE BLVD, LOS ANGELES, CA, 90001": {
+    "status": "matched",
+    "latitude": 33.97445718395,
+    "longitude": -118.245412740959,
+    "matched_address": "7232 S MIRAMONTE BLVD, LOS ANGELES, CA, 90001"
+  },
+  "1843 W 83RD ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.963698350431,
+    "longitude": -118.309944761963,
+    "matched_address": "1843 W 83RD ST, LOS ANGELES, CA, 90047"
+  },
+  "1419 W 121ST ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.923117573334,
+    "longitude": -118.300758674543,
+    "matched_address": "1419 W 121ST ST, LOS ANGELES, CA, 90047"
+  },
+  "3916 SCANDIA WAY, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.118207003559,
+    "longitude": -118.228231320902,
+    "matched_address": "3916 SCANDIA WAY, LOS ANGELES, CA, 90065"
+  },
+  "8350 VICKSBURG AVE, LOS ANGELES, CA, 90045": {
+    "status": "matched",
+    "latitude": 33.962475106159,
+    "longitude": -118.394389804805,
+    "matched_address": "8350 VICKSBURG AVE, LOS ANGELES, CA, 90045"
+  },
+  "957 MANZANITA ST, LOS ANGELES, CA, 90029": {
+    "status": "matched",
+    "latitude": 34.090094753454,
+    "longitude": -118.283096629298,
+    "matched_address": "957 MANZANITA ST, LOS ANGELES, CA, 90029"
+  },
+  "600 W 85TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.961039793387,
+    "longitude": -118.285939938112,
+    "matched_address": "600 W 85TH ST, LOS ANGELES, CA, 90044"
+  },
+  "336 E 131ST ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.91362986503,
+    "longitude": -118.268466329415,
+    "matched_address": "336 E 131ST ST, LOS ANGELES, CA, 90061"
+  },
+  "2278 FINK ST, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.112100700977,
+    "longitude": -118.330177113673,
+    "matched_address": "2278 FINK ST, LOS ANGELES, CA, 90068"
+  },
+  "10700 LINDBROOK DR, LOS ANGELES, CA, 90024": {
+    "status": "matched",
+    "latitude": 34.061811213136,
+    "longitude": -118.436149165686,
+    "matched_address": "10700 LINDBROOK DR, LOS ANGELES, CA, 90024"
+  },
+  "3528 7TH AVE, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.023887833675,
+    "longitude": -118.324702288925,
+    "matched_address": "3528 7TH AVE, LOS ANGELES, CA, 90018"
+  },
+  "3507 GARDEN AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.116523145851,
+    "longitude": -118.259902699246,
+    "matched_address": "3507 GARDEN AVE, LOS ANGELES, CA, 90039"
+  },
+  "2003 GLENDON AVE, LOS ANGELES, CA, 90025": {
+    "status": "matched",
+    "latitude": 34.047121932009,
+    "longitude": -118.433230357792,
+    "matched_address": "2003 GLENDON AVE, LOS ANGELES, CA, 90025"
+  },
+  "5145 ARLINGTON AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.995775829806,
+    "longitude": -118.318225174756,
+    "matched_address": "5145 ARLINGTON AVE, LOS ANGELES, CA, 90043"
+  },
+  "1945 W IMPERIAL HWY, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.929427371816,
+    "longitude": -118.237261237621,
+    "matched_address": "1945 IMPERIAL HWY, LOS ANGELES, CA, 90059"
+  },
+  "1833 JONES AVE, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.063913673821,
+    "longitude": -118.187186637041,
+    "matched_address": "1833 JONES AVE, LOS ANGELES, CA, 90032"
+  },
+  "1034 W 68TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.977787633152,
+    "longitude": -118.292512783472,
+    "matched_address": "1034 W 68TH ST, LOS ANGELES, CA, 90044"
+  },
+  "2153 W 80TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.966448453294,
+    "longitude": -118.316709751393,
+    "matched_address": "2153 W 80TH ST, LOS ANGELES, CA, 90047"
+  },
+  "5115 CIMARRON ST, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 33.996131269551,
+    "longitude": -118.316093457479,
+    "matched_address": "5115 CIMARRON ST, LOS ANGELES, CA, 90062"
+  },
+  "677 N FARING RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.088890285866,
+    "longitude": -118.435211886205,
+    "matched_address": "677 N FARING RD, LOS ANGELES, CA, 90077"
+  },
+  "2025 N HIGHLAND AVE, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.10810637929,
+    "longitude": -118.337224383119,
+    "matched_address": "2025 N HIGHLAND AVE, LOS ANGELES, CA, 90068"
+  },
+  "4904 7TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.998844586952,
+    "longitude": -118.324606408625,
+    "matched_address": "4904 7TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "8700 RUTHELEN ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.958800281444,
+    "longitude": -118.312761593878,
+    "matched_address": "8700 RUTHELEN ST, LOS ANGELES, CA, 90047"
+  },
+  "6135 WARNER DR, LOS ANGELES, CA, 90048": {
+    "status": "matched",
+    "latitude": 34.06209587799,
+    "longitude": -118.362474769994,
+    "matched_address": "6135 WARNER DR, LOS ANGELES, CA, 90048"
+  },
+  "1954 E 113TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.932403861183,
+    "longitude": -118.236946188244,
+    "matched_address": "1954 E 113TH ST, LOS ANGELES, CA, 90059"
+  },
+  "1200 W 39TH PL, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.014069855559,
+    "longitude": -118.297541722448,
+    "matched_address": "1200 W 39TH PL, LOS ANGELES, CA, 90037"
+  },
+  "7700 AGNEW AVE, LOS ANGELES, CA, 90045": {
+    "status": "matched",
+    "latitude": 33.971314153334,
+    "longitude": -118.409063546575,
+    "matched_address": "7700 AGNEW AVE, LOS ANGELES, CA, 90045"
+  },
+  "5102 ONACREST DR, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.994528290143,
+    "longitude": -118.358262744235,
+    "matched_address": "5102 ONACREST DR, LOS ANGELES, CA, 90043"
+  },
+  "3802 S REDONDO BLVD, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.018148576364,
+    "longitude": -118.359051765261,
+    "matched_address": "3802 S REDONDO BLVD, LOS ANGELES, CA, 90008"
+  },
+  "4540 DON QUIXOTE DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.002852764123,
+    "longitude": -118.354653835326,
+    "matched_address": "4540 DON QUIXOTE DR, LOS ANGELES, CA, 90008"
+  },
+  "8068 EL MANOR AVE, LOS ANGELES, CA, 90045": {
+    "status": "matched",
+    "latitude": 33.967314833297,
+    "longitude": -118.40014618871,
+    "matched_address": "8068 EL MANOR AVE, LOS ANGELES, CA, 90045"
+  },
+  "1712 E 122ND ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.921657862695,
+    "longitude": -118.24267477816,
+    "matched_address": "1712 E 122ND ST, LOS ANGELES, CA, 90059"
+  },
+  "8927 S DENKER AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.955214875171,
+    "longitude": -118.304719386094,
+    "matched_address": "8927 S DENKER AVE, LOS ANGELES, CA, 90047"
+  },
+  "2239 W 29TH PL, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.028283900477,
+    "longitude": -118.316129274415,
+    "matched_address": "2239 W 29TH PL, LOS ANGELES, CA, 90018"
+  },
+  "7208 9TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.974418919533,
+    "longitude": -118.327464027014,
+    "matched_address": "7208 9TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "3132 GLENDON AVE, LOS ANGELES, CA, 90034": {
+    "status": "matched",
+    "latitude": 34.028901155631,
+    "longitude": -118.419756114011,
+    "matched_address": "3132 GLENDON AVE, LOS ANGELES, CA, 90034"
+  },
+  "3512 PERLITA AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.118484979252,
+    "longitude": -118.25782326811,
+    "matched_address": "3512 PERLITA AVE, LOS ANGELES, CA, 90039"
+  },
+  "531 N SIERRA BONITA AVE, LOS ANGELES, CA, 90036": {
+    "status": "matched",
+    "latitude": 34.080732882774,
+    "longitude": -118.354328908559,
+    "matched_address": "531 N SIERRA BONITA AVE, LOS ANGELES, CA, 90036"
+  },
+  "326 N ORLANDO AVE, LOS ANGELES, CA, 90048": {
+    "status": "matched",
+    "latitude": 34.076637103962,
+    "longitude": -118.373076867985,
+    "matched_address": "326 N ORLANDO AVE, LOS ANGELES, CA, 90048"
+  },
+  "1008 ADELANTE AVE, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.124304332814,
+    "longitude": -118.171336592233,
+    "matched_address": "1008 ADELANTE AVE, LOS ANGELES, CA, 90042"
+  },
+  "7921 S MAIN ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.9676835002,
+    "longitude": -118.273965312795,
+    "matched_address": "7921 S MAIN ST, LOS ANGELES, CA, 90003"
+  },
+  "2848 CINCINNATI ST, LOS ANGELES, CA, 90033": {
+    "status": "matched",
+    "latitude": 34.044779229921,
+    "longitude": -118.200931668847,
+    "matched_address": "2848 CINCINNATI ST, LOS ANGELES, CA, 90033"
+  },
+  "12929 S CENTRAL AVE, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.914544517606,
+    "longitude": -118.254485984246,
+    "matched_address": "12929 S CENTRAL AVE, LOS ANGELES, CA, 90059"
+  },
+  "4027 W 61ST ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.98447293066,
+    "longitude": -118.344565109222,
+    "matched_address": "4027 W 61ST ST, LOS ANGELES, CA, 90043"
+  },
+  "1943 VAN WICK ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.936821705206,
+    "longitude": -118.312343253425,
+    "matched_address": "1943 VAN WICK ST, LOS ANGELES, CA, 90047"
+  },
+  "2134 W 29TH ST, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.029033671174,
+    "longitude": -118.313143346584,
+    "matched_address": "2134 W 29TH ST, LOS ANGELES, CA, 90018"
+  },
+  "2320 HILLCREST DR, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.035823070143,
+    "longitude": -118.340294822694,
+    "matched_address": "2320 HILLCREST DR, LOS ANGELES, CA, 90016"
+  },
+  "10762 ASHTON AVE, LOS ANGELES, CA, 90024": {
+    "status": "matched",
+    "latitude": 34.059117851286,
+    "longitude": -118.438010619448,
+    "matched_address": "10762 ASHTON AVE, LOS ANGELES, CA, 90024"
+  },
+  "1630 E 87TH PL, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.958156284426,
+    "longitude": -118.245114434212,
+    "matched_address": "1630 E 87TH PL, LOS ANGELES, CA, 90002"
+  },
+  "3710 STEWART AVE, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 34.004340459746,
+    "longitude": -118.438966482848,
+    "matched_address": "3710 STEWART AVE, LOS ANGELES, CA, 90066"
+  },
+  "3886 CHERRYWOOD AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.014978711281,
+    "longitude": -118.328971176345,
+    "matched_address": "3886 CHERRYWOOD AVE, LOS ANGELES, CA, 90008"
+  },
+  "8817 S GRAMERCY PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.957707795998,
+    "longitude": -118.313984885692,
+    "matched_address": "8817 S GRAMERCY PL, LOS ANGELES, CA, 90047"
+  },
+  "1907 W 42ND PL, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 34.006425998046,
+    "longitude": -118.313981641748,
+    "matched_address": "1907 W 42ND PL, LOS ANGELES, CA, 90062"
+  },
+  "152 W 105TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.940967103916,
+    "longitude": -118.275095458852,
+    "matched_address": "152 W 105TH ST, LOS ANGELES, CA, 90003"
+  },
+  "5452 6TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.992743478219,
+    "longitude": -118.323545918164,
+    "matched_address": "5452 6TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "3943 DALTON AVE, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 34.013527700937,
+    "longitude": -118.303504429661,
+    "matched_address": "3943 DALTON AVE, LOS ANGELES, CA, 90062"
+  },
+  "3891 HEPBURN AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.014873673254,
+    "longitude": -118.325158820064,
+    "matched_address": "3891 HEPBURN AVE, LOS ANGELES, CA, 90008"
+  },
+  "8945 RUTHELEN ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.955520107975,
+    "longitude": -118.312346884777,
+    "matched_address": "8945 RUTHELEN ST, LOS ANGELES, CA, 90047"
+  },
+  "3667 6TH AVE, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.021127723931,
+    "longitude": -118.323650931701,
+    "matched_address": "3667 6TH AVE, LOS ANGELES, CA, 90018"
+  },
+  "2051 W 85TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.960958453775,
+    "longitude": -118.314492510822,
+    "matched_address": "2051 W 85TH ST, LOS ANGELES, CA, 90047"
+  },
+  "6410 DENVER AVE, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.981181520299,
+    "longitude": -118.283701215508,
+    "matched_address": "6410 DENVER AVE, LOS ANGELES, CA, 90044"
+  },
+  "4346 3RD AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.004620196704,
+    "longitude": -118.3202771883,
+    "matched_address": "4346 3RD AVE, LOS ANGELES, CA, 90008"
+  },
+  "9800 HAAS AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.947423647528,
+    "longitude": -118.316632239935,
+    "matched_address": "9800 HAAS AVE, LOS ANGELES, CA, 90047"
+  },
+  "7500 DALTON AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.971831800924,
+    "longitude": -118.303444991826,
+    "matched_address": "7500 DALTON AVE, LOS ANGELES, CA, 90047"
+  },
+  "12035 S MAIN ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.923093254984,
+    "longitude": -118.273968782112,
+    "matched_address": "12035 S MAIN ST, LOS ANGELES, CA, 90061"
+  },
+  "1313 W 84TH PL, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.962515452717,
+    "longitude": -118.298735317183,
+    "matched_address": "1313 W 84TH ST, LOS ANGELES, CA, 90044"
+  },
+  "203 W VERNON AVE, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.00386991585,
+    "longitude": -118.276225540942,
+    "matched_address": "203 W VERNON AVE, LOS ANGELES, CA, 90037"
+  },
+  "5577 W 82ND ST, LOS ANGELES, CA, 90045": {
+    "status": "matched",
+    "latitude": 33.964047576383,
+    "longitude": -118.377930122844,
+    "matched_address": "5577 W 82ND ST, LOS ANGELES, CA, 90045"
+  },
+  "947 W 50TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.997912575106,
+    "longitude": -118.290331667823,
+    "matched_address": "947 W 50TH ST, LOS ANGELES, CA, 90037"
+  },
+  "434 E 80TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.966417163643,
+    "longitude": -118.266907872479,
+    "matched_address": "434 E 80TH ST, LOS ANGELES, CA, 90003"
+  },
+  "7318 S HALLDALE AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.973504943025,
+    "longitude": -118.302365373556,
+    "matched_address": "7318 S HALLDALE AVE, LOS ANGELES, CA, 90047"
+  },
+  "12931 MCCUNE AVE, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 34.000914473706,
+    "longitude": -118.443075765329,
+    "matched_address": "12931 MCCUNE AVE, LOS ANGELES, CA, 90066"
+  },
+  "2307 LYRIC AVE, LOS ANGELES, CA, 90027": {
+    "status": "matched",
+    "latitude": 34.102650325616,
+    "longitude": -118.274402132582,
+    "matched_address": "2307 LYRIC AVE, LOS ANGELES, CA, 90027"
+  },
+  "6017 DAUPHIN ST, LOS ANGELES, CA, 90034": {
+    "status": "matched",
+    "latitude": 34.034858075396,
+    "longitude": -118.374710607068,
+    "matched_address": "6017 DAUPHIN ST, LOS ANGELES, CA, 90034"
+  },
+  "2954 SOMERSET DR, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.028443365765,
+    "longitude": -118.337296163973,
+    "matched_address": "2954 SOMERSET DR, LOS ANGELES, CA, 90016"
+  },
+  "1219 W 84TH PL, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.961894452646,
+    "longitude": -118.296243382412,
+    "matched_address": "1219 W 84TH PL, LOS ANGELES, CA, 90044"
+  },
+  "1249 E 90TH ST, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.954788785629,
+    "longitude": -118.252795632909,
+    "matched_address": "1249 E 90TH ST, LOS ANGELES, CA, 90002"
+  },
+  "854 E 101ST ST, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.94467710508,
+    "longitude": -118.259839936007,
+    "matched_address": "854 E 101ST ST, LOS ANGELES, CA, 90002"
+  },
+  "2121 W 94TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.95129063604,
+    "longitude": -118.316031796696,
+    "matched_address": "2121 W 94TH ST, LOS ANGELES, CA, 90047"
+  },
+  "5453 3RD AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.992763427786,
+    "longitude": -118.320417129642,
+    "matched_address": "5453 3RD AVE, LOS ANGELES, CA, 90043"
+  },
+  "323 N ST LOUIS ST, LOS ANGELES, CA, 90033": {
+    "status": "matched",
+    "latitude": 34.046946851292,
+    "longitude": -118.212521776756,
+    "matched_address": "323 N SAINT LOUIS ST, LOS ANGELES, CA, 90033"
+  },
+  "1514 E 124TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.919686863188,
+    "longitude": -118.247566283763,
+    "matched_address": "1514 E 124TH ST, LOS ANGELES, CA, 90059"
+  },
+  "10414 S DENKER AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.941692345437,
+    "longitude": -118.304569432982,
+    "matched_address": "10414 S DENKER AVE, LOS ANGELES, CA, 90047"
+  },
+  "319 E 48TH ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 33.99933236753,
+    "longitude": -118.270486924119,
+    "matched_address": "319 E 48TH ST, LOS ANGELES, CA, 90011"
+  },
+  "1743 W 79TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.96734845271,
+    "longitude": -118.30809541327,
+    "matched_address": "1743 W 79TH ST, LOS ANGELES, CA, 90047"
+  },
+  "12542 STONEY LN, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.104067580505,
+    "longitude": -118.48930324785,
+    "matched_address": "12542 STONEY LN, LOS ANGELES, CA, 90049"
+  },
+  "5280 SANCHEZ DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.015363027057,
+    "longitude": -118.36030551286,
+    "matched_address": "5280 SANCHEZ DR, LOS ANGELES, CA, 90008"
+  },
+  "711 BRADSHAWE AVE, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.019662800425,
+    "longitude": -118.143652753546,
+    "matched_address": "711 BRADSHAWE AVE, LOS ANGELES, CA, 90022"
+  },
+  "8032 WILLOW GLEN RD, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.118938105452,
+    "longitude": -118.371729498385,
+    "matched_address": "8032 WILLOW GLEN RD, LOS ANGELES, CA, 90046"
+  },
+  "1536 W 124TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.920155078085,
+    "longitude": -118.30314187043,
+    "matched_address": "1536 W 124TH ST, LOS ANGELES, CA, 90047"
+  },
+  "12915 S CARLTON AVE, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.915187282906,
+    "longitude": -118.272855471216,
+    "matched_address": "12915 S CARLTON AVE, LOS ANGELES, CA, 90061"
+  },
+  "1500 REEVES ST, LOS ANGELES, CA, 90035": {
+    "status": "matched",
+    "latitude": 34.052392070195,
+    "longitude": -118.396367376943,
+    "matched_address": "1500 REEVES ST, LOS ANGELES, CA, 90035"
+  },
+  "3960 DALTON AVE, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 34.01270134887,
+    "longitude": -118.303366182291,
+    "matched_address": "3960 DALTON AVE, LOS ANGELES, CA, 90062"
+  },
+  "1939 W 79TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.967344898607,
+    "longitude": -118.312043680026,
+    "matched_address": "1939 W 79TH ST, LOS ANGELES, CA, 90047"
+  },
+  "623 E 76TH ST, LOS ANGELES, CA, 90001": {
+    "status": "matched",
+    "latitude": 33.971220668393,
+    "longitude": -118.264253286183,
+    "matched_address": "623 E 76TH ST, LOS ANGELES, CA, 90001"
+  },
+  "1493 W 46TH ST, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 34.001953448619,
+    "longitude": -118.30330721402,
+    "matched_address": "1493 W 46TH ST, LOS ANGELES, CA, 90062"
+  },
+  "12440 WAGNER ST, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 33.989636192832,
+    "longitude": -118.420432495284,
+    "matched_address": "12440 WAGNER ST, LOS ANGELES, CA, 90066"
+  },
+  "1432 W 101ST ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.944931863392,
+    "longitude": -118.301015013696,
+    "matched_address": "1432 W 101ST ST, LOS ANGELES, CA, 90047"
+  },
+  "10206 STANFORD AVE, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.943950346521,
+    "longitude": -118.262429752816,
+    "matched_address": "10206 STANFORD AVE, LOS ANGELES, CA, 90002"
+  },
+  "2126 W 29TH PL, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.028185892382,
+    "longitude": -118.312893850423,
+    "matched_address": "2126 W 29TH PL, LOS ANGELES, CA, 90018"
+  },
+  "2272 VANDALIA AVE, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.071684340802,
+    "longitude": -118.163230354474,
+    "matched_address": "2272 VANDALIA AVE, LOS ANGELES, CA, 90032"
+  },
+  "434 E 105TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.940971861915,
+    "longitude": -118.266916973423,
+    "matched_address": "434 E 105TH ST, LOS ANGELES, CA, 90003"
+  },
+  "1529 SKYLARK LN, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.099249763041,
+    "longitude": -118.388227597583,
+    "matched_address": "1529 SKYLARK LN, LOS ANGELES, CA, 90069"
+  },
+  "3929 FREDONIA DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.135180295701,
+    "longitude": -118.364291005138,
+    "matched_address": "3929 FREDONIA DR, LOS ANGELES, CA, 90068"
+  },
+  "484 FENN ST, LOS ANGELES, CA, 90031": {
+    "status": "matched",
+    "latitude": 34.082571394221,
+    "longitude": -118.208441730998,
+    "matched_address": "484 FENN ST, LOS ANGELES, CA, 90031"
+  },
+  "5611 S SHERBOURNE DR, LOS ANGELES, CA, 90056": {
+    "status": "matched",
+    "latitude": 33.990595338969,
+    "longitude": -118.374781900332,
+    "matched_address": "5611 S SHERBOURNE DR, LOS ANGELES, CA, 90056"
+  },
+  "1743 N CURSON AVE, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.102647295659,
+    "longitude": -118.355099606943,
+    "matched_address": "1743 N CURSON AVE, LOS ANGELES, CA, 90046"
+  },
+  "3554 S SYCAMORE AVE, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.022116624117,
+    "longitude": -118.357008214093,
+    "matched_address": "3554 S SYCAMORE AVE, LOS ANGELES, CA, 90016"
+  },
+  "4343 MAYCREST AVE, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.095037535029,
+    "longitude": -118.161340683787,
+    "matched_address": "4343 MAYCREST AVE, LOS ANGELES, CA, 90032"
+  },
+  "1641 N CRESCENT HEIGHTS BLVD, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.100964699957,
+    "longitude": -118.368258678361,
+    "matched_address": "1641 N CRESCENT HEIGHTS BLVD, LOS ANGELES, CA, 90069"
+  },
+  "3977 S BUDLONG AVE, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.01193515499,
+    "longitude": -118.29597592826,
+    "matched_address": "3977 S BUDLONG AVE, LOS ANGELES, CA, 90037"
+  },
+  "533 W 79TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.967895913137,
+    "longitude": -118.28321509835,
+    "matched_address": "533 W 79TH ST, LOS ANGELES, CA, 90044"
+  },
+  "2164 LAKE SHORE AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.092222216969,
+    "longitude": -118.252726916892,
+    "matched_address": "2164 LAKE SHORE AVE, LOS ANGELES, CA, 90039"
+  },
+  "533 CLIFTON ST, LOS ANGELES, CA, 90031": {
+    "status": "matched",
+    "latitude": 34.080980387257,
+    "longitude": -118.206188931324,
+    "matched_address": "533 CLIFTON ST, LOS ANGELES, CA, 90031"
+  },
+  "4344 HUNTINGTON DR S, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.080382251593,
+    "longitude": -118.191410986134,
+    "matched_address": "4344 HUNTINGTON DR S, LOS ANGELES, CA, 90032"
+  },
+  "4150 SOMERS AVE, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.125906749043,
+    "longitude": -118.232978085184,
+    "matched_address": "4150 SOMERS AVE, LOS ANGELES, CA, 90065"
+  },
+  "5466 W 9TH ST, LOS ANGELES, CA, 90036": {
+    "status": "matched",
+    "latitude": 34.058869307587,
+    "longitude": -118.347825431417,
+    "matched_address": "5466 W 9TH ST, LOS ANGELES, CA, 90036"
+  },
+  "437 E AVENUE 28, LOS ANGELES, CA, 90031": {
+    "status": "matched",
+    "latitude": 34.079332265475,
+    "longitude": -118.20998838948,
+    "matched_address": "437 E AVE 28, LOS ANGELES, CA, 90031"
+  },
+  "1051 S HARVARD BLVD, LOS ANGELES, CA, 90006": {
+    "status": "matched",
+    "latitude": 34.051707908621,
+    "longitude": -118.304228956653,
+    "matched_address": "1051 S HARVARD BLVD, LOS ANGELES, CA, 90006"
+  },
+  "10012 S ST ANDREWS PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.945313055243,
+    "longitude": -118.311142529226,
+    "matched_address": "10012 S ST ANDREWS PL, LOS ANGELES, CA, 90047"
+  },
+  "1446 CARROLL AVE, LOS ANGELES, CA, 90026": {
+    "status": "matched",
+    "latitude": 34.0700284285,
+    "longitude": -118.255951766053,
+    "matched_address": "1446 CARROLL AVE, LOS ANGELES, CA, 90026"
+  },
+  "1714 W 84TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.96265286178,
+    "longitude": -118.307184295726,
+    "matched_address": "1714 W 84TH ST, LOS ANGELES, CA, 90047"
+  },
+  "4724 S FIGUEROA ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.000464200628,
+    "longitude": -118.282619418949,
+    "matched_address": "4724 S FIGUEROA ST, LOS ANGELES, CA, 90037"
+  },
+  "343 W 74TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.972789548444,
+    "longitude": -118.279172554933,
+    "matched_address": "343 W 74TH ST, LOS ANGELES, CA, 90003"
+  },
+  "246 E 139TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.90587186604,
+    "longitude": -118.271137252494,
+    "matched_address": "246 E 139TH ST, LOS ANGELES, CA, 90061"
+  },
+  "3415 W 76TH ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.97093851041,
+    "longitude": -118.331204037103,
+    "matched_address": "3415 W 76TH ST, LOS ANGELES, CA, 90043"
+  },
+  "4962 FIR ST, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.029400364529,
+    "longitude": -118.351828514329,
+    "matched_address": "4962 FIR ST, LOS ANGELES, CA, 90016"
+  },
+  "1265 W 84TH PL, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.961894452688,
+    "longitude": -118.296995970371,
+    "matched_address": "1265 W 84TH PL, LOS ANGELES, CA, 90044"
+  },
+  "1159 E 28TH ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.016265695442,
+    "longitude": -118.254480866972,
+    "matched_address": "1159 E 28TH ST, LOS ANGELES, CA, 90011"
+  },
+  "1440 STEARNS DR, LOS ANGELES, CA, 90035": {
+    "status": "matched",
+    "latitude": 34.050973557237,
+    "longitude": -118.371379011868,
+    "matched_address": "1440 STEARNS DR, LOS ANGELES, CA, 90035"
+  },
+  "1043 S HARVARD BLVD, LOS ANGELES, CA, 90006": {
+    "status": "matched",
+    "latitude": 34.051841819513,
+    "longitude": -118.304228956642,
+    "matched_address": "1043 S HARVARD BLVD, LOS ANGELES, CA, 90006"
+  },
+  "3900 EDGEHILL DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.014527302839,
+    "longitude": -118.331110816415,
+    "matched_address": "3900 EDGEHILL DR, LOS ANGELES, CA, 90008"
+  },
+  "1639 N AVENUE 54, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.123323573793,
+    "longitude": -118.198676580464,
+    "matched_address": "1639 N AVE 54, LOS ANGELES, CA, 90042"
+  },
+  "4330 WALTON AVE, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.0049201599,
+    "longitude": -118.294739692523,
+    "matched_address": "4330 WALTON AVE, LOS ANGELES, CA, 90037"
+  },
+  "1020 W 70TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.976177821803,
+    "longitude": -118.292273728517,
+    "matched_address": "1020 W 70TH ST, LOS ANGELES, CA, 90044"
+  },
+  "1324 W 101ST ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.944931863263,
+    "longitude": -118.29872332583,
+    "matched_address": "1324 W 101ST ST, LOS ANGELES, CA, 90044"
+  },
+  "375 N WILTON PL, LOS ANGELES, CA, 90004": {
+    "status": "matched",
+    "latitude": 34.078101318558,
+    "longitude": -118.313574686678,
+    "matched_address": "375 N WILTON PL, LOS ANGELES, CA, 90004"
+  },
+  "1216 SAYBROOK AVE, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.011694508944,
+    "longitude": -118.136298905257,
+    "matched_address": "1216 SAYBROOK AVE, LOS ANGELES, CA, 90022"
+  },
+  "5604 S VERDUN AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.990756150151,
+    "longitude": -118.34702642095,
+    "matched_address": "5604 S VERDUN AVE, LOS ANGELES, CA, 90043"
+  },
+  "3970 STRANG ST, LOS ANGELES, CA, 90063": {
+    "status": "matched",
+    "latitude": 34.031731334653,
+    "longitude": -118.180577892483,
+    "matched_address": "3970 STRANG ST, LOS ANGELES, CA, 90063"
+  },
+  "7019 ARLINGTON AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.976179179263,
+    "longitude": -118.318792474092,
+    "matched_address": "7019 ARLINGTON AVE, LOS ANGELES, CA, 90043"
+  },
+  "1837 W 78TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.96912483361,
+    "longitude": -118.309812528365,
+    "matched_address": "1837 W 78TH ST, LOS ANGELES, CA, 90047"
+  },
+  "7931 HOLMES AVE, LOS ANGELES, CA, 90001": {
+    "status": "matched",
+    "latitude": 33.966860339906,
+    "longitude": -118.241093904475,
+    "matched_address": "7931 HOLMES AVE, LOS ANGELES, CA, 90001"
+  },
+  "3611 WADE ST, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 34.005900983698,
+    "longitude": -118.441457647637,
+    "matched_address": "3611 WADE ST, LOS ANGELES, CA, 90066"
+  },
+  "1914 W 82ND ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.964515861819,
+    "longitude": -118.311542224497,
+    "matched_address": "1914 W 82ND ST, LOS ANGELES, CA, 90047"
+  },
+  "4444 W 63RD ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.982551862097,
+    "longitude": -118.351831953111,
+    "matched_address": "4444 W 63RD ST, LOS ANGELES, CA, 90043"
+  },
+  "351 E 97TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.948372037911,
+    "longitude": -118.268400252965,
+    "matched_address": "351 E 97TH ST, LOS ANGELES, CA, 90003"
+  },
+  "917 E 49TH PL, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 33.998498891715,
+    "longitude": -118.259566956836,
+    "matched_address": "917 E 49TH PL, LOS ANGELES, CA, 90011"
+  },
+  "1957 W 81ST ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.965539453153,
+    "longitude": -118.312422225042,
+    "matched_address": "1957 W 81ST ST, LOS ANGELES, CA, 90047"
+  },
+  "214 E 56TH ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 33.99149401398,
+    "longitude": -118.271748405181,
+    "matched_address": "214 E 56TH ST, LOS ANGELES, CA, 90011"
+  },
+  "635 W 95TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.950152993225,
+    "longitude": -118.285545624827,
+    "matched_address": "635 W 95TH ST, LOS ANGELES, CA, 90044"
+  },
+  "634 W 101ST ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.944550653464,
+    "longitude": -118.285536745587,
+    "matched_address": "634 W 101ST ST, LOS ANGELES, CA, 90044"
+  },
+  "1017 N OXFORD AVE, LOS ANGELES, CA, 90029": {
+    "status": "matched",
+    "latitude": 34.088929830569,
+    "longitude": -118.307854206274,
+    "matched_address": "1017 N OXFORD AVE, LOS ANGELES, CA, 90029"
+  },
+  "759 E 83RD ST, LOS ANGELES, CA, 90001": {
+    "status": "matched",
+    "latitude": 33.963825723768,
+    "longitude": -118.261661993033,
+    "matched_address": "759 E 83RD ST, LOS ANGELES, CA, 90001"
+  },
+  "1023 W 84TH PL, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.961894452429,
+    "longitude": -118.292391162234,
+    "matched_address": "1023 W 84TH PL, LOS ANGELES, CA, 90044"
+  },
+  "4048 W 59TH ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.987061036732,
+    "longitude": -118.345137592837,
+    "matched_address": "4048 W 59TH ST, LOS ANGELES, CA, 90043"
+  },
+  "442 E 84TH PL, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.961880933403,
+    "longitude": -118.266801745336,
+    "matched_address": "442 E 84TH PL, LOS ANGELES, CA, 90003"
+  },
+  "4130 4TH AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.009714363184,
+    "longitude": -118.321317870533,
+    "matched_address": "4130 4TH AVE, LOS ANGELES, CA, 90008"
+  },
+  "945 5TH AVE, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.05437909105,
+    "longitude": -118.319210397181,
+    "matched_address": "945 5TH AVE, LOS ANGELES, CA, 90019"
+  },
+  "12308 MITCHELL AVE, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 34.000611491448,
+    "longitude": -118.42974084316,
+    "matched_address": "12308 MITCHELL AVE, LOS ANGELES, CA, 90066"
+  },
+  "664 E 118TH PL, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.925509863411,
+    "longitude": -118.26305481494,
+    "matched_address": "664 E 118TH PL, LOS ANGELES, CA, 90059"
+  },
+  "10813 S HOBART BLVD, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.938084480717,
+    "longitude": -118.308010939084,
+    "matched_address": "10813 S HOBART BLVD, LOS ANGELES, CA, 90047"
+  },
+  "618 W 101ST ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.944552029643,
+    "longitude": -118.285203705721,
+    "matched_address": "618 W 101ST ST, LOS ANGELES, CA, 90044"
+  },
+  "1345 W 54TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.993283929441,
+    "longitude": -118.298971632968,
+    "matched_address": "1345 W 54TH ST, LOS ANGELES, CA, 90037"
+  },
+  "2008 ROSEBUD AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.098224496368,
+    "longitude": -118.249880363675,
+    "matched_address": "2008 ROSEBUD AVE, LOS ANGELES, CA, 90039"
+  },
+  "4026 6TH AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.012239688146,
+    "longitude": -118.324048179613,
+    "matched_address": "4026 6TH AVE, LOS ANGELES, CA, 90008"
+  },
+  "4403 W 60TH ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.985339453192,
+    "longitude": -118.351927043889,
+    "matched_address": "4403 W 60TH ST, LOS ANGELES, CA, 90043"
+  },
+  "3788 ROXTON AVE, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.017424693701,
+    "longitude": -118.321253676661,
+    "matched_address": "3788 ROXTON AVE, LOS ANGELES, CA, 90018"
+  },
+  "2611 ROUND DR, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.078326688059,
+    "longitude": -118.172308636324,
+    "matched_address": "2611 N ROUND DR, LOS ANGELES, CA, 90032"
+  },
+  "1535 CARMONA AVE, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.046770921404,
+    "longitude": -118.358835661933,
+    "matched_address": "1535 CARMONA AVE, LOS ANGELES, CA, 90019"
+  },
+  "1861 W 94TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.951283454638,
+    "longitude": -118.310827652475,
+    "matched_address": "1861 W 94TH ST, LOS ANGELES, CA, 90047"
+  },
+  "727 N HAZARD AVE, LOS ANGELES, CA, 90063": {
+    "status": "matched",
+    "latitude": 34.044625883326,
+    "longitude": -118.179938785881,
+    "matched_address": "727 N HAZARD AVE, LOS ANGELES, CA, 90063"
+  },
+  "2118 S VICTORIA AVE, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.0374948744,
+    "longitude": -118.333658133702,
+    "matched_address": "2118 S VICTORIA AVE, LOS ANGELES, CA, 90016"
+  },
+  "5738 CHESLEY AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.990108676534,
+    "longitude": -118.334370251498,
+    "matched_address": "5738 CHESLEY AVE, LOS ANGELES, CA, 90043"
+  },
+  "227 E 87TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.959133972565,
+    "longitude": -118.271059899295,
+    "matched_address": "227 E 87TH ST, LOS ANGELES, CA, 90003"
+  },
+  "8757 WONDERLAND PARK AVE, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.11405487053,
+    "longitude": -118.385947745505,
+    "matched_address": "8757 W WONDERLAND PARK AVE, LOS ANGELES, CA, 90046"
+  },
+  "10721 CIMARRON ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.938825033427,
+    "longitude": -118.315889545701,
+    "matched_address": "10721 CIMARRON ST, LOS ANGELES, CA, 90047"
+  },
+  "843 N EDGEMONT ST, LOS ANGELES, CA, 90029": {
+    "status": "matched",
+    "latitude": 34.086759992465,
+    "longitude": -118.296114872272,
+    "matched_address": "843 N EDGEMONT ST, LOS ANGELES, CA, 90029"
+  },
+  "728 N SPAULDING AVE, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.08421966203,
+    "longitude": -118.357302671794,
+    "matched_address": "728 N SPAULDING AVE, LOS ANGELES, CA, 90046"
+  },
+  "1430 W 51ST ST, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 33.996825857676,
+    "longitude": -118.301330916221,
+    "matched_address": "1430 W 51ST ST, LOS ANGELES, CA, 90062"
+  },
+  "329 E 109TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.937460415156,
+    "longitude": -118.269049118949,
+    "matched_address": "329 E 109TH ST, LOS ANGELES, CA, 90061"
+  },
+  "4108 W 59TH PL, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.986140786704,
+    "longitude": -118.346584993554,
+    "matched_address": "4108 W 59TH PL, LOS ANGELES, CA, 90043"
+  },
+  "1359 E 56TH ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 33.992121720009,
+    "longitude": -118.250825997009,
+    "matched_address": "1359 E 56TH ST, LOS ANGELES, CA, 90011"
+  },
+  "829 W 76TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.970792699847,
+    "longitude": -118.287751431104,
+    "matched_address": "829 W 76TH ST, LOS ANGELES, CA, 90044"
+  },
+  "3966 LA SALLE AVE, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 34.012127943459,
+    "longitude": -118.305608728511,
+    "matched_address": "3966 LA SALLE AVE, LOS ANGELES, CA, 90062"
+  },
+  "3414 S GRAMERCY PL, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.025367082571,
+    "longitude": -118.313752171347,
+    "matched_address": "3414 S GRAMERCY PL, LOS ANGELES, CA, 90018"
+  },
+  "152 E 137TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.907399421259,
+    "longitude": -118.27279070611,
+    "matched_address": "152 E 137TH ST, LOS ANGELES, CA, 90061"
+  },
+  "416 W 108TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.93820458092,
+    "longitude": -118.280908597895,
+    "matched_address": "416 W 108TH ST, LOS ANGELES, CA, 90061"
+  },
+  "2027 W 93RD ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.952003454729,
+    "longitude": -118.313860104744,
+    "matched_address": "2027 W 93RD ST, LOS ANGELES, CA, 90047"
+  },
+  "10359 KIMBERLY ST, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.941935352906,
+    "longitude": -118.240509062672,
+    "matched_address": "10359 KIMBERLY ST, LOS ANGELES, CA, 90002"
+  },
+  "4764 WIOTA ST, LOS ANGELES, CA, 90041": {
+    "status": "matched",
+    "latitude": 34.132919021595,
+    "longitude": -118.193364044189,
+    "matched_address": "4764 WIOTA ST, LOS ANGELES, CA, 90041"
+  },
+  "3734 CHESAPEAKE AVE, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.019081412531,
+    "longitude": -118.345112670885,
+    "matched_address": "3734 CHESAPEAKE AVE, LOS ANGELES, CA, 90016"
+  },
+  "2261 ROSCOMARE RD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.113983160772,
+    "longitude": -118.463832720238,
+    "matched_address": "2261 N ROSCOMARE RD, LOS ANGELES, CA, 90077"
+  },
+  "3200 W 76TH ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.970842577906,
+    "longitude": -118.328726548237,
+    "matched_address": "3200 W 76TH ST, LOS ANGELES, CA, 90043"
+  },
+  "927 N CRESCENT HEIGHTS BLVD, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.087593807558,
+    "longitude": -118.365981201544,
+    "matched_address": "927 N CRESCENT HEIGHTS BLVD, LOS ANGELES, CA, 90046"
+  },
+  "326 W 55TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.992334856902,
+    "longitude": -118.278792779407,
+    "matched_address": "326 W 55TH ST, LOS ANGELES, CA, 90037"
+  },
+  "6527 ELGIN ST, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.117605808444,
+    "longitude": -118.177644931945,
+    "matched_address": "6527 ELGIN ST, LOS ANGELES, CA, 90042"
+  },
+  "4462 COLLEGE VIEW AVE, LOS ANGELES, CA, 90041": {
+    "status": "matched",
+    "latitude": 34.12781159839,
+    "longitude": -118.222145232624,
+    "matched_address": "4462 COLLEGE VIEW AVE, LOS ANGELES, CA, 90041"
+  },
+  "5311 6TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.993997753939,
+    "longitude": -118.323678379409,
+    "matched_address": "5311 6TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "3911 2ND AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.01435216786,
+    "longitude": -118.319357349165,
+    "matched_address": "3911 2ND AVE, LOS ANGELES, CA, 90008"
+  },
+  "5748 COLISEUM ST, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.019322709967,
+    "longitude": -118.370898918414,
+    "matched_address": "5748 COLISEUM ST, LOS ANGELES, CA, 90016"
+  },
+  "517 E AVENUE 39, LOS ANGELES, CA, 90031": {
+    "status": "matched",
+    "latitude": 34.088144206983,
+    "longitude": -118.205331346926,
+    "matched_address": "517 E AVE 39, LOS ANGELES, CA, 90031"
+  },
+  "1620 S MANSFIELD AVE, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.045270960831,
+    "longitude": -118.346730735794,
+    "matched_address": "1620 S MANSFIELD AVE, LOS ANGELES, CA, 90019"
+  },
+  "5717 4TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.990591634839,
+    "longitude": -118.321515063752,
+    "matched_address": "5717 4TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "5754 VALLEY RIDGE AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.989347527309,
+    "longitude": -118.344799136887,
+    "matched_address": "5754 VALLEY RIDGE AVE, LOS ANGELES, CA, 90043"
+  },
+  "11516 S ST ANDREWS PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.928783410583,
+    "longitude": -118.311578124768,
+    "matched_address": "11516 S SAINT ANDREWS PL, LOS ANGELES, CA, 90047"
+  },
+  "1550 BLUE JAY WAY, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.100431637816,
+    "longitude": -118.387037458055,
+    "matched_address": "1550 BLUE JAY WAY, LOS ANGELES, CA, 90069"
+  },
+  "1526 W 105TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.940881863953,
+    "longitude": -118.30303475705,
+    "matched_address": "1526 W 105TH ST, LOS ANGELES, CA, 90047"
+  },
+  "4192 DON LUIS DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.005533147315,
+    "longitude": -118.344161446706,
+    "matched_address": "4192 DON LUIS DR, LOS ANGELES, CA, 90008"
+  },
+  "1508 W MARTIN LUTHER KING JR BLVD, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 34.010778672286,
+    "longitude": -118.303785108151,
+    "matched_address": "1508 W MARTIN LUTHER KING JR BLVD, LOS ANGELES, CA, 90062"
+  },
+  "1114 N HELIOTROPE DR, LOS ANGELES, CA, 90029": {
+    "status": "matched",
+    "latitude": 34.091260948118,
+    "longitude": -118.294903044933,
+    "matched_address": "1114 N HELIOTROPE DR, LOS ANGELES, CA, 90029"
+  },
+  "4711 W 18TH ST, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.041934560905,
+    "longitude": -118.340944820916,
+    "matched_address": "4711 W 18TH ST, LOS ANGELES, CA, 90019"
+  },
+  "1224 3RD AVE, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.04912374442,
+    "longitude": -118.319189391982,
+    "matched_address": "1224 3RD AVE, LOS ANGELES, CA, 90019"
+  },
+  "103 E 137TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.907516198384,
+    "longitude": -118.273671335731,
+    "matched_address": "103 E 137TH ST, LOS ANGELES, CA, 90061"
+  },
+  "8511 HOLLYWOOD BLVD, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.099149044475,
+    "longitude": -118.375393951118,
+    "matched_address": "8511 HOLLYWOOD BLVD, LOS ANGELES, CA, 90069"
+  },
+  "321 W 118TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.926515455566,
+    "longitude": -118.278561704712,
+    "matched_address": "321 W 118TH ST, LOS ANGELES, CA, 90061"
+  },
+  "118 S ALTA VISTA BLVD, LOS ANGELES, CA, 90036": {
+    "status": "matched",
+    "latitude": 34.073069820197,
+    "longitude": -118.347343731934,
+    "matched_address": "118 S ALTA VISTA BLVD, LOS ANGELES, CA, 90036"
+  },
+  "1658 W 109TH PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.936664758562,
+    "longitude": -118.30565610923,
+    "matched_address": "1658 W 109TH PL, LOS ANGELES, CA, 90047"
+  },
+  "2300 TRACY TER, LOS ANGELES, CA, 90027": {
+    "status": "matched",
+    "latitude": 34.102291856009,
+    "longitude": -118.273480252632,
+    "matched_address": "2300 TRACY TER, LOS ANGELES, CA, 90027"
+  },
+  "972 ARAPAHOE ST, LOS ANGELES, CA, 90006": {
+    "status": "matched",
+    "latitude": 34.05313720708,
+    "longitude": -118.285319595798,
+    "matched_address": "972 ARAPAHOE ST, LOS ANGELES, CA, 90006"
+  },
+  "214 S CARONDELET ST, LOS ANGELES, CA, 90057": {
+    "status": "matched",
+    "latitude": 34.06700093342,
+    "longitude": -118.275498453913,
+    "matched_address": "214 S CARONDELET ST, LOS ANGELES, CA, 90057"
+  },
+  "207 S ARDMORE AVE, LOS ANGELES, CA, 90004": {
+    "status": "matched",
+    "latitude": 34.071018615136,
+    "longitude": -118.30173029054,
+    "matched_address": "207 S ARDMORE AVE, LOS ANGELES, CA, 90004"
+  },
+  "12208 COMPTON AVE, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.921890907785,
+    "longitude": -118.246164557034,
+    "matched_address": "12208 COMPTON AVE, LOS ANGELES, CA, 90059"
+  },
+  "10811 S SAN PEDRO ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.938148555377,
+    "longitude": -118.269583378695,
+    "matched_address": "10811 S SAN PEDRO ST, LOS ANGELES, CA, 90061"
+  },
+  "6421 FIREBRAND ST, LOS ANGELES, CA, 90045": {
+    "status": "matched",
+    "latitude": 33.97490497214,
+    "longitude": -118.401729249352,
+    "matched_address": "6421 FIREBRAND ST, LOS ANGELES, CA, 90045"
+  },
+  "220 W 50TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.997355008361,
+    "longitude": -118.276583535631,
+    "matched_address": "220 W 50TH ST, LOS ANGELES, CA, 90037"
+  },
+  "910 E 93RD ST, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.95197957153,
+    "longitude": -118.258438153451,
+    "matched_address": "910 E 93RD ST, LOS ANGELES, CA, 90002"
+  },
+  "3627 W 60TH ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.985420452281,
+    "longitude": -118.335919716699,
+    "matched_address": "3627 W 60TH ST, LOS ANGELES, CA, 90043"
+  },
+  "1316 W 54TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.993168106198,
+    "longitude": -118.298378069335,
+    "matched_address": "1316 W 54TH ST, LOS ANGELES, CA, 90037"
+  },
+  "314 N ARDMORE AVE, LOS ANGELES, CA, 90004": {
+    "status": "matched",
+    "latitude": 34.076516369985,
+    "longitude": -118.302241906348,
+    "matched_address": "314 N ARDMORE AVE, LOS ANGELES, CA, 90004"
+  },
+  "1554 W 121ST ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.922998865958,
+    "longitude": -118.303519770023,
+    "matched_address": "1554 W 121ST ST, LOS ANGELES, CA, 90047"
+  },
+  "5804 SHENANDOAH AVE, LOS ANGELES, CA, 90056": {
+    "status": "matched",
+    "latitude": 33.988492574057,
+    "longitude": -118.377535980321,
+    "matched_address": "5804 SHENANDOAH AVE, LOS ANGELES, CA, 90056"
+  },
+  "716 E 23RD ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.0239208106,
+    "longitude": -118.259545526672,
+    "matched_address": "716 E 23RD ST, LOS ANGELES, CA, 90011"
+  },
+  "500 MOUNT WASHINGTON DR, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.09656772101,
+    "longitude": -118.216302716033,
+    "matched_address": "500 MOUNT WASHINGTON DR, LOS ANGELES, CA, 90065"
+  },
+  "417 E 119TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.924724455163,
+    "longitude": -118.267836653683,
+    "matched_address": "417 E 119TH ST, LOS ANGELES, CA, 90061"
+  },
+  "1717 ARLINGTON AVE, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.041638985367,
+    "longitude": -118.317773023855,
+    "matched_address": "1717 ARLINGTON AVE, LOS ANGELES, CA, 90019"
+  },
+  "3720 BRUNSWICK AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.120203350073,
+    "longitude": -118.261717421708,
+    "matched_address": "3720 BRUNSWICK AVE, LOS ANGELES, CA, 90039"
+  },
+  "914 IROLO ST, LOS ANGELES, CA, 90006": {
+    "status": "matched",
+    "latitude": 34.055653438513,
+    "longitude": -118.300813719588,
+    "matched_address": "914 IROLO ST, LOS ANGELES, CA, 90006"
+  },
+  "4440 W 58TH PL, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.987906861569,
+    "longitude": -118.352945405869,
+    "matched_address": "4440 W 58TH PL, LOS ANGELES, CA, 90043"
+  },
+  "1191 N BUNDY DR, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.080736972288,
+    "longitude": -118.482311369366,
+    "matched_address": "1191 N BUNDY DR, LOS ANGELES, CA, 90049"
+  },
+  "779 N ALEXANDRIA AVE, LOS ANGELES, CA, 90029": {
+    "status": "matched",
+    "latitude": 34.085851342535,
+    "longitude": -118.29792009837,
+    "matched_address": "779 N ALEXANDRIA AVE, LOS ANGELES, CA, 90029"
+  },
+  "2116 MORENO DR, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.097151092305,
+    "longitude": -118.267074908917,
+    "matched_address": "2116 MORENO DR, LOS ANGELES, CA, 90039"
+  },
+  "616 E 118TH PL, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.925509863476,
+    "longitude": -118.264206030431,
+    "matched_address": "616 E 118TH PL, LOS ANGELES, CA, 90059"
+  },
+  "332 W 49TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.99825379981,
+    "longitude": -118.278938007694,
+    "matched_address": "332 W 49TH ST, LOS ANGELES, CA, 90037"
+  },
+  "1627 COURTNEY AVE, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.100370130471,
+    "longitude": -118.357273002695,
+    "matched_address": "1627 COURTNEY AVE, LOS ANGELES, CA, 90046"
+  },
+  "3014 S NORTON AVE, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.02750244432,
+    "longitude": -118.332656390297,
+    "matched_address": "3014 S NORTON AVE, LOS ANGELES, CA, 90018"
+  },
+  "2695 LA CUESTA DR, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.120477567666,
+    "longitude": -118.354989165431,
+    "matched_address": "2695 LA CUESTA DR, LOS ANGELES, CA, 90046"
+  },
+  "1914 W 85TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.960843862225,
+    "longitude": -118.311542865522,
+    "matched_address": "1914 W 85TH ST, LOS ANGELES, CA, 90047"
+  },
+  "2148 S REDONDO BLVD, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.038582013044,
+    "longitude": -118.353781470663,
+    "matched_address": "2148 S REDONDO BLVD, LOS ANGELES, CA, 90016"
+  },
+  "228 S MCCADDEN PL, LOS ANGELES, CA, 90004": {
+    "status": "matched",
+    "latitude": 34.070422219283,
+    "longitude": -118.337090952888,
+    "matched_address": "228 S MCCADDEN PL, LOS ANGELES, CA, 90004"
+  },
+  "2361 OVERLAND AVE, LOS ANGELES, CA, 90064": {
+    "status": "matched",
+    "latitude": 34.042779763028,
+    "longitude": -118.42546387577,
+    "matched_address": "2361 OVERLAND AVE, LOS ANGELES, CA, 90064"
+  },
+  "5742 CHESLEY AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.990037312888,
+    "longitude": -118.334370596255,
+    "matched_address": "5742 CHESLEY AVE, LOS ANGELES, CA, 90043"
+  },
+  "10515 S MANHATTAN PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.940797413999,
+    "longitude": -118.310234443715,
+    "matched_address": "10515 S MANHATTAN PL, LOS ANGELES, CA, 90047"
+  },
+  "9432 S HOBART BLVD, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.950683746594,
+    "longitude": -118.307780738933,
+    "matched_address": "9432 S HOBART BLVD, LOS ANGELES, CA, 90047"
+  },
+  "10425 S ST ANDREWS PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.941575626245,
+    "longitude": -118.311286179521,
+    "matched_address": "10425 S ST ANDREWS PL, LOS ANGELES, CA, 90047"
+  },
+  "3021 WELLINGTON RD, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.02745495144,
+    "longitude": -118.338464932526,
+    "matched_address": "3021 WELLINGTON RD, LOS ANGELES, CA, 90016"
+  },
+  "2000 N NEW HAMPSHIRE AVE, LOS ANGELES, CA, 90027": {
+    "status": "matched",
+    "latitude": 34.107730539406,
+    "longitude": -118.292876725736,
+    "matched_address": "2000 N NEW HAMPSHIRE AVE, LOS ANGELES, CA, 90027"
+  },
+  "1250 E 127TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.917587260959,
+    "longitude": -118.252517906567,
+    "matched_address": "1250 E 127TH ST, LOS ANGELES, CA, 90059"
+  },
+  "6310 MIRROR LAKE DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.125050260097,
+    "longitude": -118.327634518152,
+    "matched_address": "6310 MIRROR LAKE DR, LOS ANGELES, CA, 90068"
+  },
+  "687 LORRAINE BLVD, LOS ANGELES, CA, 90005": {
+    "status": "matched",
+    "latitude": 34.060782818803,
+    "longitude": -118.320852231775,
+    "matched_address": "687 LORRAINE BLVD, LOS ANGELES, CA, 90005"
+  },
+  "317 E 85TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.961077110566,
+    "longitude": -118.269091604368,
+    "matched_address": "317 E 85TH ST, LOS ANGELES, CA, 90003"
+  },
+  "2018 GLENDON AVE, LOS ANGELES, CA, 90025": {
+    "status": "matched",
+    "latitude": 34.046970108616,
+    "longitude": -118.432929614181,
+    "matched_address": "2018 GLENDON AVE, LOS ANGELES, CA, 90025"
+  },
+  "351 N HIGHLAND AVE, LOS ANGELES, CA, 90036": {
+    "status": "matched",
+    "latitude": 34.077259957986,
+    "longitude": -118.338723761357,
+    "matched_address": "351 N HIGHLAND AVE, LOS ANGELES, CA, 90036"
+  },
+  "1153 S KINGSLEY DR, LOS ANGELES, CA, 90006": {
+    "status": "matched",
+    "latitude": 34.049899659877,
+    "longitude": -118.303178076376,
+    "matched_address": "1153 S KINGSLEY DR, LOS ANGELES, CA, 90006"
+  },
+  "1638 W 51ST ST, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 33.99683485803,
+    "longitude": -118.307612383128,
+    "matched_address": "1638 W 51ST ST, LOS ANGELES, CA, 90062"
+  },
+  "11354 WATERFORD ST, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.061619560686,
+    "longitude": -118.458733917584,
+    "matched_address": "11354 WATERFORD ST, LOS ANGELES, CA, 90049"
+  },
+  "1245 W 39TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.015566584341,
+    "longitude": -118.298793215918,
+    "matched_address": "1245 W 39TH ST, LOS ANGELES, CA, 90037"
+  },
+  "2222 MARICOPA DR, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.110476959885,
+    "longitude": -118.224193319686,
+    "matched_address": "2222 MARICOPA DR, LOS ANGELES, CA, 90065"
+  },
+  "155 N ANITA AVE, LOS ANGELES, CA, 90049": {
+    "status": "matched",
+    "latitude": 34.058982128971,
+    "longitude": -118.48320768248,
+    "matched_address": "155 N ANITA AVE, LOS ANGELES, CA, 90049"
+  },
+  "3501 W 59TH PL, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.986347169861,
+    "longitude": -118.33305624176,
+    "matched_address": "3501 W 59TH PL, LOS ANGELES, CA, 90043"
+  },
+  "4625 GRATIAN ST, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.03251743752,
+    "longitude": -118.166538981686,
+    "matched_address": "4625 GRATIAN ST, LOS ANGELES, CA, 90022"
+  },
+  "2515 ALCAZAR ST, LOS ANGELES, CA, 90033": {
+    "status": "matched",
+    "latitude": 34.06183122854,
+    "longitude": -118.196724629673,
+    "matched_address": "2515 ALCAZAR ST, LOS ANGELES, CA, 90033"
+  },
+  "6119 SOUTHSIDE DR, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.010722946714,
+    "longitude": -118.140961635371,
+    "matched_address": "6119 E SOUTHSIDE DR, LOS ANGELES, CA, 90022"
+  },
+  "6410 7TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.98166827357,
+    "longitude": -118.324450036113,
+    "matched_address": "6410 7TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "2218 S GENESEE AVE, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.038441038713,
+    "longitude": -118.367992870896,
+    "matched_address": "2218 S GENESEE AVE, LOS ANGELES, CA, 90016"
+  },
+  "2841 BALLARD ST, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.078428214458,
+    "longitude": -118.174491640062,
+    "matched_address": "2841 BALLARD ST, LOS ANGELES, CA, 90032"
+  },
+  "5452 NORWICH AVE, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.08359802899,
+    "longitude": -118.163588054497,
+    "matched_address": "5452 NORWICH AVE, LOS ANGELES, CA, 90032"
+  },
+  "1672 MOUNTCREST AVE, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.100677507745,
+    "longitude": -118.378443732576,
+    "matched_address": "1672 MOUNTCREST AVE, LOS ANGELES, CA, 90069"
+  },
+  "642 E 136TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.908152787674,
+    "longitude": -118.264098138352,
+    "matched_address": "642 E 136TH ST, LOS ANGELES, CA, 90059"
+  },
+  "2329 S WEST VIEW ST, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.035603028035,
+    "longitude": -118.346670343229,
+    "matched_address": "2329 S WEST VIEW ST, LOS ANGELES, CA, 90016"
+  },
+  "5012 BUDAU PL, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.077259724264,
+    "longitude": -118.174687579019,
+    "matched_address": "5012 BUDAU PL, LOS ANGELES, CA, 90032"
+  },
+  "6669 NORTHSIDE DR, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.012733580496,
+    "longitude": -118.128020875157,
+    "matched_address": "6669 E NORTHSIDE DR, LOS ANGELES, CA, 90022"
+  },
+  "1151 W 69TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.977086275989,
+    "longitude": -118.294794402408,
+    "matched_address": "1151 W 69TH ST, LOS ANGELES, CA, 90044"
+  },
+  "2211 OBAMA BLVD, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.018333447723,
+    "longitude": -118.319456229669,
+    "matched_address": "2211 OBAMA BLVD, LOS ANGELES, CA, 90018"
+  },
+  "3312 GRAND VIEW BLVD, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 34.014645985733,
+    "longitude": -118.438565107535,
+    "matched_address": "3312 GRAND VIEW BLVD, LOS ANGELES, CA, 90066"
+  },
+  "2528 DEARBORN DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.114081050079,
+    "longitude": -118.322746809746,
+    "matched_address": "2528 DEARBORN DR, LOS ANGELES, CA, 90068"
+  },
+  "132 N LAUREL AVE, LOS ANGELES, CA, 90048": {
+    "status": "matched",
+    "latitude": 34.074622070314,
+    "longitude": -118.364684768061,
+    "matched_address": "132 N LAUREL AVE, LOS ANGELES, CA, 90048"
+  },
+  "5727 S ST ANDREWS PL, LOS ANGELES, CA, 90062": {
+    "status": "matched",
+    "latitude": 33.990447158707,
+    "longitude": -118.311415410234,
+    "matched_address": "5727 S ST ANDREWS PL, LOS ANGELES, CA, 90062"
+  },
+  "1330 E 33RD ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.013059738616,
+    "longitude": -118.251600212522,
+    "matched_address": "1330 E 33RD ST, LOS ANGELES, CA, 90011"
+  },
+  "725 E 121ST PL, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.922172689239,
+    "longitude": -118.262737019887,
+    "matched_address": "725 E 121ST PL, LOS ANGELES, CA, 90059"
+  },
+  "6008 CARLTON WAY, LOS ANGELES, CA, 90028": {
+    "status": "matched",
+    "latitude": 34.100395905266,
+    "longitude": -118.320357401031,
+    "matched_address": "6008 CARLTON WAY, LOS ANGELES, CA, 90028"
+  },
+  "4218 W 58TH PL, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.987939233645,
+    "longitude": -118.348096725201,
+    "matched_address": "4218 W 58TH PL, LOS ANGELES, CA, 90043"
+  },
+  "1119 E 122ND ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.921383446803,
+    "longitude": -118.25544098998,
+    "matched_address": "1119 E 122ND ST, LOS ANGELES, CA, 90059"
+  },
+  "9111 BANDERA ST, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.954128667744,
+    "longitude": -118.239709539284,
+    "matched_address": "9111 BANDERA ST, LOS ANGELES, CA, 90002"
+  },
+  "4812 SHENANDOAH AVE, LOS ANGELES, CA, 90056": {
+    "status": "matched",
+    "latitude": 33.996870732525,
+    "longitude": -118.371531889708,
+    "matched_address": "4812 SHENANDOAH AVE, LOS ANGELES, CA, 90056"
+  },
+  "119 E 61ST ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.984296234337,
+    "longitude": -118.273206989199,
+    "matched_address": "119 E 61ST ST, LOS ANGELES, CA, 90003"
+  },
+  "117 ROBINSON ST, LOS ANGELES, CA, 90026": {
+    "status": "matched",
+    "latitude": 34.072934927602,
+    "longitude": -118.283917145432,
+    "matched_address": "117 ROBINSON ST, LOS ANGELES, CA, 90026"
+  },
+  "6564 BRADLEY PL, LOS ANGELES, CA, 90056": {
+    "status": "matched",
+    "latitude": 33.980503615387,
+    "longitude": -118.371172244546,
+    "matched_address": "6564 BRADLEY PL, LOS ANGELES, CA, 90056"
+  },
+  "2762 ARMACOST AVE, LOS ANGELES, CA, 90064": {
+    "status": "matched",
+    "latitude": 34.022636686684,
+    "longitude": -118.443814470582,
+    "matched_address": "2762 ARMACOST AVE, LOS ANGELES, CA, 90064"
+  },
+  "9111 S HALLDALE AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.954148468654,
+    "longitude": -118.302518042617,
+    "matched_address": "9111 S HALLDALE AVE, LOS ANGELES, CA, 90047"
+  },
+  "5931 ARLINGTON AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.986716275091,
+    "longitude": -118.318714204268,
+    "matched_address": "5931 ARLINGTON AVE, LOS ANGELES, CA, 90043"
+  },
+  "6211 5TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.983509270803,
+    "longitude": -118.322630462242,
+    "matched_address": "6211 5TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "1944 S SPAULDING AVE, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.041319824927,
+    "longitude": -118.365865491712,
+    "matched_address": "1944 S SPAULDING AVE, LOS ANGELES, CA, 90016"
+  },
+  "1516 W 68TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.977745859867,
+    "longitude": -118.302821902234,
+    "matched_address": "1516 W 68TH ST, LOS ANGELES, CA, 90047"
+  },
+  "5750 5TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.989980175638,
+    "longitude": -118.322468787668,
+    "matched_address": "5750 5TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "211 CHESTNUT AVE, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.114109545303,
+    "longitude": -118.176791342782,
+    "matched_address": "211 CHESTNUT AVE, LOS ANGELES, CA, 90042"
+  },
+  "8421 RAYMOND AVE, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.961469145336,
+    "longitude": -118.297690391061,
+    "matched_address": "8421 RAYMOND AVE, LOS ANGELES, CA, 90044"
+  },
+  "5139 LOLETA AVE, LOS ANGELES, CA, 90041": {
+    "status": "matched",
+    "latitude": 34.139941055472,
+    "longitude": -118.198201253101,
+    "matched_address": "5139 LOLETA AVE, LOS ANGELES, CA, 90041"
+  },
+  "416 S VAN NESS AVE, LOS ANGELES, CA, 90020": {
+    "status": "matched",
+    "latitude": 34.066803449056,
+    "longitude": -118.315073473055,
+    "matched_address": "416 S VAN NESS AVE, LOS ANGELES, CA, 90020"
+  },
+  "3834 DUBLIN AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.016182448122,
+    "longitude": -118.322324677411,
+    "matched_address": "3834 DUBLIN AVE, LOS ANGELES, CA, 90008"
+  },
+  "4401 DON FELIPE DR, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.006733620189,
+    "longitude": -118.351112935699,
+    "matched_address": "4401 DON FELIPE DR, LOS ANGELES, CA, 90008"
+  },
+  "6360 MARYLAND DR, LOS ANGELES, CA, 90048": {
+    "status": "matched",
+    "latitude": 34.067090021007,
+    "longitude": -118.366515505284,
+    "matched_address": "6360 MARYLAND DR, LOS ANGELES, CA, 90048"
+  },
+  "854 N STANLEY AVE, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.086348255501,
+    "longitude": -118.356284075571,
+    "matched_address": "854 N STANLEY AVE, LOS ANGELES, CA, 90046"
+  },
+  "3922 S NORTON AVE, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.014182681465,
+    "longitude": -118.332472248448,
+    "matched_address": "3922 S NORTON AVE, LOS ANGELES, CA, 90008"
+  },
+  "5724 6TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.990432651648,
+    "longitude": -118.323555547282,
+    "matched_address": "5724 6TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "1546 W 105TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.940881863977,
+    "longitude": -118.303463088014,
+    "matched_address": "1546 W 105TH ST, LOS ANGELES, CA, 90047"
+  },
+  "1718 W 109TH PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.93666086462,
+    "longitude": -118.306607407786,
+    "matched_address": "1718 W 109TH PL, LOS ANGELES, CA, 90047"
+  },
+  "1738 NICHOLS CANYON RD, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.102517632806,
+    "longitude": -118.358374185719,
+    "matched_address": "1738 NICHOLS CANYON RD, LOS ANGELES, CA, 90046"
+  },
+  "4263 W 59TH ST, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.987146191231,
+    "longitude": -118.349074000027,
+    "matched_address": "4263 W 59TH ST, LOS ANGELES, CA, 90043"
+  },
+  "131 E 99TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.946534318108,
+    "longitude": -118.273181644801,
+    "matched_address": "131 E 99TH ST, LOS ANGELES, CA, 90003"
+  },
+  "1410 E 110TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.935750478383,
+    "longitude": -118.249651469104,
+    "matched_address": "1410 E 110TH ST, LOS ANGELES, CA, 90059"
+  },
+  "1023 SENTINEL AVE, LOS ANGELES, CA, 90063": {
+    "status": "matched",
+    "latitude": 34.049787870263,
+    "longitude": -118.195015045653,
+    "matched_address": "1023 SENTINEL AVE, LOS ANGELES, CA, 90063"
+  },
+  "11637 RUTHELEN ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.927825526506,
+    "longitude": -118.31260523373,
+    "matched_address": "11637 RUTHELEN ST, LOS ANGELES, CA, 90047"
+  },
+  "327 W 91ST ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.95432252728,
+    "longitude": -118.278762521713,
+    "matched_address": "327 W 91ST ST, LOS ANGELES, CA, 90003"
+  },
+  "1402 W 81ST ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.965433408747,
+    "longitude": -118.300355917977,
+    "matched_address": "1402 W 81ST ST, LOS ANGELES, CA, 90047"
+  },
+  "520 MERIDIAN TER, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.120771294899,
+    "longitude": -118.187834870316,
+    "matched_address": "520 MERIDIAN TER, LOS ANGELES, CA, 90042"
+  },
+  "2839 CHESAPEAKE AVE, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.030053473553,
+    "longitude": -118.345048433544,
+    "matched_address": "2839 CHESAPEAKE AVE, LOS ANGELES, CA, 90016"
+  },
+  "5059 FAIR ST, LOS ANGELES, CA, 90040": {
+    "status": "matched",
+    "latitude": 34.00782641763,
+    "longitude": -118.163331785747,
+    "matched_address": "5059 FAIR ST, LOS ANGELES, CA, 90040"
+  },
+  "2679 THORPE AVE, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.092305455093,
+    "longitude": -118.225458722453,
+    "matched_address": "2679 THORPE AVE, LOS ANGELES, CA, 90065"
+  },
+  "505 N AVENUE 65, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.117783475834,
+    "longitude": -118.178042288572,
+    "matched_address": "505 N AVE 65, LOS ANGELES, CA, 90042"
+  },
+  "2704 FONDA WAY, LOS ANGELES, CA, 90031": {
+    "status": "matched",
+    "latitude": 34.078632593131,
+    "longitude": -118.209454982629,
+    "matched_address": "2704 FONDA WAY, LOS ANGELES, CA, 90031"
+  },
+  "1529 S POINT VIEW ST, LOS ANGELES, CA, 90035": {
+    "status": "matched",
+    "latitude": 34.049719933162,
+    "longitude": -118.370650584284,
+    "matched_address": "1529 S POINT VIEW ST, LOS ANGELES, CA, 90035"
+  },
+  "1614 VIEWMONT DR, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.100535752816,
+    "longitude": -118.379168456485,
+    "matched_address": "1614 VIEWMONT DR, LOS ANGELES, CA, 90069"
+  },
+  "437 W 58TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.989784171447,
+    "longitude": -118.281748522922,
+    "matched_address": "437 W 58TH ST, LOS ANGELES, CA, 90037"
+  },
+  "537 W 49TH PL, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.998060669187,
+    "longitude": -118.283268237917,
+    "matched_address": "537 W 49TH PL, LOS ANGELES, CA, 90037"
+  },
+  "1411 WOODRUFF AVE, LOS ANGELES, CA, 90024": {
+    "status": "matched",
+    "latitude": 34.061122404933,
+    "longitude": -118.42796679393,
+    "matched_address": "1411 WOODRUFF AVE, LOS ANGELES, CA, 90024"
+  },
+  "2371 BELLEGLADE AVE, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.073153130754,
+    "longitude": -118.176126558665,
+    "matched_address": "2371 N BELLEGLADE AVE, LOS ANGELES, CA, 90032"
+  },
+  "1130 W 71ST ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.975357995015,
+    "longitude": -118.294379747602,
+    "matched_address": "1130 W 71ST ST, LOS ANGELES, CA, 90044"
+  },
+  "447 E 94TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.951161693406,
+    "longitude": -118.266296605963,
+    "matched_address": "447 E 94TH ST, LOS ANGELES, CA, 90003"
+  },
+  "1428 W 91ST ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.954244811099,
+    "longitude": -118.301108490774,
+    "matched_address": "1428 W 91ST ST, LOS ANGELES, CA, 90047"
+  },
+  "6522 ARLINGTON AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.980355946333,
+    "longitude": -118.318622998813,
+    "matched_address": "6522 ARLINGTON AVE, LOS ANGELES, CA, 90043"
+  },
+  "2716 EXPOSITION PL, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.019908181914,
+    "longitude": -118.325167245579,
+    "matched_address": "2716 EXPOSITION PL, LOS ANGELES, CA, 90018"
+  },
+  "6014 5TH AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.985276334483,
+    "longitude": -118.322479030601,
+    "matched_address": "6014 5TH AVE, LOS ANGELES, CA, 90043"
+  },
+  "6756 3RD AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.977164272724,
+    "longitude": -118.320590867183,
+    "matched_address": "6756 3RD AVE, LOS ANGELES, CA, 90043"
+  },
+  "561 TERRILL AVE, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.10025450507,
+    "longitude": -118.185923497062,
+    "matched_address": "561 TERRILL AVE, LOS ANGELES, CA, 90042"
+  },
+  "207 W 85TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.961592643154,
+    "longitude": -118.276228918281,
+    "matched_address": "207 W 85TH ST, LOS ANGELES, CA, 90003"
+  },
+  "11867 S BROADWAY, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.925239061429,
+    "longitude": -118.278308867956,
+    "matched_address": "11867 S BROADWAY, LOS ANGELES, CA, 90061"
+  },
+  "1720 W 60TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.985829865656,
+    "longitude": -118.307251036897,
+    "matched_address": "1720 W 60TH ST, LOS ANGELES, CA, 90047"
+  },
+  "1704 W 59TH PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.986656489395,
+    "longitude": -118.306913508539,
+    "matched_address": "1704 W 59TH PL, LOS ANGELES, CA, 90047"
+  },
+  "9222 HOOPER AVE, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.952584705118,
+    "longitude": -118.253913947425,
+    "matched_address": "9222 HOOPER AVE, LOS ANGELES, CA, 90002"
+  },
+  "341 W 88TH PL, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.956823719553,
+    "longitude": -118.279015864338,
+    "matched_address": "341 W 88TH PL, LOS ANGELES, CA, 90003"
+  },
+  "440 E LANZIT AVE, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.931486843227,
+    "longitude": -118.26701781943,
+    "matched_address": "440 E LANZIT AVE, LOS ANGELES, CA, 90061"
+  },
+  "9532 BEACH ST, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.950193552311,
+    "longitude": -118.241818155188,
+    "matched_address": "9532 BEACH ST, LOS ANGELES, CA, 90002"
+  },
+  "458 S MANSFIELD AVE, LOS ANGELES, CA, 90036": {
+    "status": "matched",
+    "latitude": 34.066290419422,
+    "longitude": -118.34069362978,
+    "matched_address": "458 S MANSFIELD AVE, LOS ANGELES, CA, 90036"
+  },
+  "633 N LAUREL AVE, LOS ANGELES, CA, 90048": {
+    "status": "matched",
+    "latitude": 34.082312816683,
+    "longitude": -118.364868007865,
+    "matched_address": "633 N LAUREL AVE, LOS ANGELES, CA, 90048"
+  },
+  "5939 S VAN NESS AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.986584245916,
+    "longitude": -118.317733074896,
+    "matched_address": "5939 S VAN NESS AVE, LOS ANGELES, CA, 90047"
+  },
+  "3962 MCLAUGHLIN AVE, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 34.005395435917,
+    "longitude": -118.421915431371,
+    "matched_address": "3962 MCLAUGHLIN AVE, LOS ANGELES, CA, 90066"
+  },
+  "7610 WOODROW WILSON DR, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.1223679589,
+    "longitude": -118.361642163713,
+    "matched_address": "7610 WOODROW WILSON DR, LOS ANGELES, CA, 90046"
+  },
+  "904 E MARTIN LUTHER KING JR BLVD, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.010901853794,
+    "longitude": -118.260064119749,
+    "matched_address": "904 E MARTIN LUTHER KING JR BLVD, LOS ANGELES, CA, 90011"
+  },
+  "1223 W 81ST ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.965845452225,
+    "longitude": -118.296531846658,
+    "matched_address": "1223 W 81ST ST, LOS ANGELES, CA, 90044"
+  },
+  "1477 OAK GROVE DR, LOS ANGELES, CA, 90041": {
+    "status": "matched",
+    "latitude": 34.13134785311,
+    "longitude": -118.197854484442,
+    "matched_address": "1477 OAK GROVE DR, LOS ANGELES, CA, 90041"
+  },
+  "1450 W 67TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.978447859708,
+    "longitude": -118.301363256208,
+    "matched_address": "1450 W 67TH ST, LOS ANGELES, CA, 90047"
+  },
+  "8620 GRAHAM AVE, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.95977657695,
+    "longitude": -118.242987836163,
+    "matched_address": "8620 GRAHAM AVE, LOS ANGELES, CA, 90002"
+  },
+  "4763 DOCKWEILER ST, LOS ANGELES, CA, 90019": {
+    "status": "matched",
+    "latitude": 34.051259822594,
+    "longitude": -118.338874672855,
+    "matched_address": "4763 DOCKWEILER ST, LOS ANGELES, CA, 90019"
+  },
+  "1556 N BEVERLY GLEN BLVD, LOS ANGELES, CA, 90077": {
+    "status": "matched",
+    "latitude": 34.099106886206,
+    "longitude": -118.442804118491,
+    "matched_address": "1556 N BEVERLY GLEN BLVD, LOS ANGELES, CA, 90077"
+  },
+  "2703 LINCOLN PARK AVE, LOS ANGELES, CA, 90031": {
+    "status": "matched",
+    "latitude": 34.077414348032,
+    "longitude": -118.202882235103,
+    "matched_address": "2703 LINCOLN PARK AVE, LOS ANGELES, CA, 90031"
+  },
+  "1518 W 103RD ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.94314200306,
+    "longitude": -118.302847562966,
+    "matched_address": "1518 W 103RD ST, LOS ANGELES, CA, 90047"
+  },
+  "410 E 119TH ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.924609863784,
+    "longitude": -118.267921487238,
+    "matched_address": "410 E 119TH ST, LOS ANGELES, CA, 90061"
+  },
+  "1947 W 68TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.97786045178,
+    "longitude": -118.312194700826,
+    "matched_address": "1947 W 68TH ST, LOS ANGELES, CA, 90047"
+  },
+  "1321 W 57TH ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.991011297304,
+    "longitude": -118.298461578392,
+    "matched_address": "1321 W 57TH ST, LOS ANGELES, CA, 90037"
+  },
+  "13018 S MAIN ST, LOS ANGELES, CA, 90061": {
+    "status": "matched",
+    "latitude": 33.914507980006,
+    "longitude": -118.27386691924,
+    "matched_address": "13018 S MAIN ST, LOS ANGELES, CA, 90061"
+  },
+  "420 W GAGE AVE, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.982314715199,
+    "longitude": -118.281464244639,
+    "matched_address": "420 W GAGE AVE, LOS ANGELES, CA, 90003"
+  },
+  "3087 PASSMORE DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.127290590947,
+    "longitude": -118.353827143314,
+    "matched_address": "3087 PASSMORE DR, LOS ANGELES, CA, 90068"
+  },
+  "284 S CORONADO ST, LOS ANGELES, CA, 90057": {
+    "status": "matched",
+    "latitude": 34.065974066015,
+    "longitude": -118.277751869069,
+    "matched_address": "284 S CORONADO ST, LOS ANGELES, CA, 90057"
+  },
+  "4509 JESSICA DR, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.11143122692,
+    "longitude": -118.220742563755,
+    "matched_address": "4509 JESSICA DR, LOS ANGELES, CA, 90065"
+  },
+  "8300 GRAND VIEW DR, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.103806849144,
+    "longitude": -118.371390516611,
+    "matched_address": "8300 GRANDVIEW DR, LOS ANGELES, CA, 90046"
+  },
+  "2025 S ORANGE DR, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.03957162984,
+    "longitude": -118.350265155429,
+    "matched_address": "2025 S ORANGE DR, LOS ANGELES, CA, 90016"
+  },
+  "1451 E 108TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.937889144879,
+    "longitude": -118.249217068,
+    "matched_address": "1451 E 108TH ST, LOS ANGELES, CA, 90059"
+  },
+  "1610 VIEWMONT DR, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.100441742931,
+    "longitude": -118.379197704011,
+    "matched_address": "1610 VIEWMONT DR, LOS ANGELES, CA, 90069"
+  },
+  "2853 KNOX AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.102385920108,
+    "longitude": -118.24444725154,
+    "matched_address": "2853 KNOX AVE, LOS ANGELES, CA, 90039"
+  },
+  "944 W 51ST ST, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 33.996358712814,
+    "longitude": -118.290462749905,
+    "matched_address": "944 W 51ST ST, LOS ANGELES, CA, 90037"
+  },
+  "349 MOUNT WASHINGTON DR, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.095265273069,
+    "longitude": -118.21409166063,
+    "matched_address": "349 MOUNT WASHINGTON DR, LOS ANGELES, CA, 90065"
+  },
+  "4243 W 58TH PL, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.988049663011,
+    "longitude": -118.348659217547,
+    "matched_address": "4243 W 58TH PL, LOS ANGELES, CA, 90043"
+  },
+  "709 FRASER AVE, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.023307530644,
+    "longitude": -118.16057571037,
+    "matched_address": "709 FRASER AVE, LOS ANGELES, CA, 90022"
+  },
+  "4212 DON ALANIS PL, LOS ANGELES, CA, 90008": {
+    "status": "matched",
+    "latitude": 34.008645303645,
+    "longitude": -118.347234050241,
+    "matched_address": "4212 DON ALANIS PL, LOS ANGELES, CA, 90008"
+  },
+  "218 N ALVARADO ST, LOS ANGELES, CA, 90026": {
+    "status": "matched",
+    "latitude": 34.068186876165,
+    "longitude": -118.269263892756,
+    "matched_address": "218 N ALVARADO ST, LOS ANGELES, CA, 90026"
+  },
+  "2623 EXPOSITION PL, LOS ANGELES, CA, 90018": {
+    "status": "matched",
+    "latitude": 34.019741605627,
+    "longitude": -118.32393783704,
+    "matched_address": "2623 EXPOSITION PL, LOS ANGELES, CA, 90018"
+  },
+  "11023 COMPTON AVE, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.935357528149,
+    "longitude": -118.246352042157,
+    "matched_address": "11023 COMPTON AVE, LOS ANGELES, CA, 90059"
+  },
+  "1641 VIEWMONT DR, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.101178852485,
+    "longitude": -118.379205366592,
+    "matched_address": "1641 VIEWMONT DR, LOS ANGELES, CA, 90069"
+  },
+  "5700 ALVISO AVE, LOS ANGELES, CA, 90043": {
+    "status": "matched",
+    "latitude": 33.990714166448,
+    "longitude": -118.343831045095,
+    "matched_address": "5700 ALVISO AVE, LOS ANGELES, CA, 90043"
+  },
+  "3611 ADAIR ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.014057363356,
+    "longitude": -118.267327905436,
+    "matched_address": "3611 ADAIR ST, LOS ANGELES, CA, 90011"
+  },
+  "638 E 137TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.907261875809,
+    "longitude": -118.264066900832,
+    "matched_address": "638 E 137TH ST, LOS ANGELES, CA, 90059"
+  },
+  "1911 W 65TH PL, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.979868595027,
+    "longitude": -118.311435580658,
+    "matched_address": "1911 W 65TH PL, LOS ANGELES, CA, 90047"
+  },
+  "2407 S ORANGE DR, LOS ANGELES, CA, 90016": {
+    "status": "matched",
+    "latitude": 34.035660354072,
+    "longitude": -118.351812269453,
+    "matched_address": "2407 S ORANGE DR, LOS ANGELES, CA, 90016"
+  },
+  "429 W 66TH ST, LOS ANGELES, CA, 90003": {
+    "status": "matched",
+    "latitude": 33.979873675744,
+    "longitude": -118.28174977393,
+    "matched_address": "429 W 66TH ST, LOS ANGELES, CA, 90003"
+  },
+  "2416 KENILWORTH AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.103829206628,
+    "longitude": -118.267621455411,
+    "matched_address": "2416 KENILWORTH AVE, LOS ANGELES, CA, 90039"
+  },
+  "908 E 49TH PL, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 33.998383624541,
+    "longitude": -118.259648548631,
+    "matched_address": "908 E 49TH PL, LOS ANGELES, CA, 90011"
+  },
+  "2442 E 115TH ST, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.93046651199,
+    "longitude": -118.229514707029,
+    "matched_address": "2442 E 115TH ST, LOS ANGELES, CA, 90059"
+  },
+  "1617 VIEWMONT DR, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.10061134516,
+    "longitude": -118.37928784306,
+    "matched_address": "1617 VIEWMONT DR, LOS ANGELES, CA, 90069"
+  },
+  "1423 W 95TH ST, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.949600454282,
+    "longitude": -118.301179197074,
+    "matched_address": "1423 W 95TH ST, LOS ANGELES, CA, 90047"
+  },
+  "3226 CITY TERRACE DR, LOS ANGELES, CA, 90063": {
+    "status": "matched",
+    "latitude": 34.04883118666,
+    "longitude": -118.191493244616,
+    "matched_address": "3226 E CITY TERRACE DR, LOS ANGELES, CA, 90063"
+  },
+  "3950 FRANKLIN AVE, LOS ANGELES, CA, 90027": {
+    "status": "matched",
+    "latitude": 34.105042680939,
+    "longitude": -118.277462896815,
+    "matched_address": "3950 FRANKLIN AVE, LOS ANGELES, CA, 90027"
+  },
+  "2315 LOMA VISTA PL, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.09568843568,
+    "longitude": -118.257398343503,
+    "matched_address": "2315 LOMA VISTA PL, LOS ANGELES, CA, 90039"
+  },
+  "833 W 41ST DR, LOS ANGELES, CA, 90037": {
+    "status": "matched",
+    "latitude": 34.008337412552,
+    "longitude": -118.288145409142,
+    "matched_address": "833 W 41ST DR, LOS ANGELES, CA, 90037"
+  },
+  "6242 S VAN NESS AVE, LOS ANGELES, CA, 90047": {
+    "status": "matched",
+    "latitude": 33.982695692161,
+    "longitude": -118.317623568737,
+    "matched_address": "6242 S VAN NESS AVE, LOS ANGELES, CA, 90047"
+  },
+  "336 S GLESS ST, LOS ANGELES, CA, 90033": {
+    "status": "matched",
+    "latitude": 34.043676451145,
+    "longitude": -118.222774506039,
+    "matched_address": "336 S GLESS ST, LOS ANGELES, CA, 90033"
+  },
+  "503 OLEANDER DR, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.124332733167,
+    "longitude": -118.182219772392,
+    "matched_address": "503 OLEANDER DR, LOS ANGELES, CA, 90042"
+  },
+  "1400 E 43RD ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.005854527738,
+    "longitude": -118.249668847191,
+    "matched_address": "1400 E 43RD ST, LOS ANGELES, CA, 90011"
+  },
+  "475 RUSTIC DR, LOS ANGELES, CA, 90065": {
+    "status": "matched",
+    "latitude": 34.104236348645,
+    "longitude": -118.208169161521,
+    "matched_address": "475 RUSTIC DR, LOS ANGELES, CA, 90065"
+  },
+  "2014 LAUREL CANYON BLVD, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.108340218174,
+    "longitude": -118.36773689767,
+    "matched_address": "2014 LAUREL CANYON BLVD, LOS ANGELES, CA, 90046"
+  },
+  "1554 E 24TH ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 34.015679285653,
+    "longitude": -118.245261165395,
+    "matched_address": "1554 E 24TH ST, LOS ANGELES, CA, 90011"
+  },
+  "2364 LOMA VISTA PL, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.09557851289,
+    "longitude": -118.258424874366,
+    "matched_address": "2364 LOMA VISTA PL, LOS ANGELES, CA, 90039"
+  },
+  "10611 COMPTON AVE, LOS ANGELES, CA, 90002": {
+    "status": "matched",
+    "latitude": 33.93954906412,
+    "longitude": -118.246313883615,
+    "matched_address": "10611 COMPTON AVE, LOS ANGELES, CA, 90002"
+  },
+  "519 W 65TH ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.980675273672,
+    "longitude": -118.283194190598,
+    "matched_address": "519 W 65TH ST, LOS ANGELES, CA, 90044"
+  },
+  "1754 SUNSET PLAZA DRIVE, LOS ANGELES, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.102344235083,
+    "longitude": -118.380771232781,
+    "matched_address": "1754 SUNSET PLAZA DR, LOS ANGELES, CA, 90069"
+  },
+  "6523 E OLYMPIC BLVD, LOS ANGELES, CA, 90022": {
+    "status": "matched",
+    "latitude": 34.011806128866,
+    "longitude": -118.132603974253,
+    "matched_address": "6523 E OLYMPIC BLVD, LOS ANGELES, CA, 90022"
+  },
+  "4325 PERLITA AVE, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.131751598695,
+    "longitude": -118.267782903081,
+    "matched_address": "4325 PERLITA AVE, LOS ANGELES, CA, 90039"
+  },
+  "2200 ROGERS AVE, LOS ANGELES, CA, 90023": {
+    "status": "matched",
+    "latitude": 34.03612690518,
+    "longitude": -118.218031768627,
+    "matched_address": "2200 ROGERS AVE, LOS ANGELES, CA, 90023"
+  },
+  "5263 WADSWORTH AVE, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 33.994578092921,
+    "longitude": -118.25869966371,
+    "matched_address": "5263 WADSWORTH AVE, LOS ANGELES, CA, 90011"
+  },
+  "1217 W 81ST ST, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.965845452216,
+    "longitude": -118.296372859668,
+    "matched_address": "1217 W 81ST ST, LOS ANGELES, CA, 90044"
+  },
+  "627 N VISTA ST, LOS ANGELES, CA, 90036": {
+    "status": "matched",
+    "latitude": 34.082324696355,
+    "longitude": -118.352294731597,
+    "matched_address": "627 N VISTA ST, LOS ANGELES, CA, 90036"
+  },
+  "3622 LOWRY RD, LOS ANGELES, CA, 90027": {
+    "status": "matched",
+    "latitude": 34.117168921982,
+    "longitude": -118.277546806136,
+    "matched_address": "3622 LOWRY RD, LOS ANGELES, CA, 90027"
+  },
+  "1664 SUNSET PLAZA DR, LOS ANGELES, CA, 90069": {
+    "status": "matched",
+    "latitude": 34.101221409881,
+    "longitude": -118.38041618769,
+    "matched_address": "1664 SUNSET PLAZA DR, LOS ANGELES, CA, 90069"
+  },
+  "1839 HEIDLEMAN RD, LOS ANGELES, CA, 90032": {
+    "status": "matched",
+    "latitude": 34.062706452892,
+    "longitude": -118.176139765569,
+    "matched_address": "1839 HEIDLEMAN RD, LOS ANGELES, CA, 90032"
+  },
+  "819 N HICKS AVE, LOS ANGELES, CA, 90063": {
+    "status": "matched",
+    "latitude": 34.045065519266,
+    "longitude": -118.190789218809,
+    "matched_address": "819 N HICKS AVE, LOS ANGELES, CA, 90063"
+  },
+  "2414 E 115TH PL, LOS ANGELES, CA, 90059": {
+    "status": "matched",
+    "latitude": 33.929576164795,
+    "longitude": -118.230033770054,
+    "matched_address": "2414 E 115TH PL, LOS ANGELES, CA, 90059"
+  },
+  "1118 W PANORAMA WAY, LOS ANGELES, CA, 90012": {
+    "status": "no_match"
+  },
+  "1200 ZACHARY LN, LOS ANGELES, CA, 90038": {
+    "status": "no_match"
+  },
+  "822 N GAGE AVE, LOS ANGELES, CA, 90063": {
+    "status": "matched",
+    "latitude": 34.04538417422,
+    "longitude": -118.184608674954,
+    "matched_address": "822 N GAGE AVE, LOS ANGELES, CA, 90063"
+  },
+  "1941 CURSON PL, LOS ANGELES, CA, 90046": {
+    "status": "matched",
+    "latitude": 34.106534919795,
+    "longitude": -118.355777327217,
+    "matched_address": "1941 CURSON PL, LOS ANGELES, CA, 90046"
+  },
+  "3288 N CANARY WAY, LOS ANGELES, CA, 90065": {
+    "status": "no_match"
+  },
+  "4880 ELDRED ST, LOS ANGELES, CA, 90042": {
+    "status": "matched",
+    "latitude": 34.108598855312,
+    "longitude": -118.207856746611,
+    "matched_address": "4880 ELDRED ST, LOS ANGELES, CA, 90042"
+  },
+  "2348 BAXTER ST, LOS ANGELES, CA, 90039": {
+    "status": "matched",
+    "latitude": 34.094154425545,
+    "longitude": -118.261298492974,
+    "matched_address": "2348 BAXTER ST, LOS ANGELES, CA, 90039"
+  },
+  "6930 WOODROW WILSON DR, LOS ANGELES, CA, 90068": {
+    "status": "matched",
+    "latitude": 34.124980393857,
+    "longitude": -118.345909627053,
+    "matched_address": "6930 WOODROW WILSON DR, LOS ANGELES, CA, 90068"
+  },
+  "Unknown, LOS ANGELES, CA, 90046": {
+    "status": "no_match"
+  },
+  "5220 S SAN PEDRO ST, LOS ANGELES, CA, 90011": {
+    "status": "matched",
+    "latitude": 33.995014740125,
+    "longitude": -118.270060636521,
+    "matched_address": "5220 S SAN PEDRO ST, LOS ANGELES, CA, 90011"
+  },
+  "590 W BUNTZMAN WAY, LOS ANGELES, CA, 90065": {
+    "status": "no_match"
+  },
+  "11503 S NEW HAMPSHIRE AVE, LOS ANGELES, CA, 90044": {
+    "status": "matched",
+    "latitude": 33.927661688765,
+    "longitude": -118.293275867018,
+    "matched_address": "11503 S NEW HAMPSHIRE AVE, LOS ANGELES, CA, 90044"
+  },
+  "11700 CHARNOCK RD, LOS ANGELES, CA, 90066": {
+    "status": "matched",
+    "latitude": 34.012311709646,
+    "longitude": -118.427619251693,
+    "matched_address": "11700 CHARNOCK RD, LOS ANGELES, CA, 90066"
+  },
+  "The information contained in this report is subject to the license restrictions and all other terms contained in PropertyRadar.com's User Agreement.": {
+    "status": "error",
+    "error": "400 Client Error:  for url: https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=The+information+contained+in+this+report+is+subject+to+the+license+restrictions+and+all+other+terms+contained+in+PropertyRadar.com%27s+User+Agreement.&benchmark=4&format=json"
+  }
+}
