@@ -272,17 +272,59 @@ def build_ruleset(documents: list[Document]) -> dict:
         flags=re.IGNORECASE | re.DOTALL,
     )
     max_attached_adu_sqft = None
+    max_attached_adu_sqft_rule = None
     if attached_formula_found:
+        max_attached_adu_sqft_rule = {
+            "type": "formula",
+            "base_rule": "50% of the existing primary dwelling floor area",
+            "new_building_rule": "No fixed local square-foot cap when part of a new building, subject to other applicable zoning limits.",
+            "state_override_max_sqft": {
+                "studio_or_one_bedroom": 850,
+                "more_than_one_bedroom": 1000,
+            },
+            "programmatic_interpretation": "Use the greater of the local 50% rule and the applicable State-law override, while respecting scenario-specific zoning constraints.",
+        }
         notes.append(
             "TODO: Attached ADU floor area is formula-based, not a single citywide scalar. ZA Memo 143 says 50% of the existing dwelling, or no fixed cap when built with a new dwelling, with 850 sf / 1,000 sf State-law allowances overriding stricter local limits."
         )
 
     max_adu_height_ft = None
+    max_adu_height_ft_rule = None
     if re.search(
         r"up to\s+25\s+feet.*?whichever is lower|16 feet; or|18 feet.*?transit",
         authoritative_text,
         flags=re.IGNORECASE | re.DOTALL,
     ):
+        max_adu_height_ft_rule = {
+            "type": "conditional",
+            "cases": [
+                {
+                    "scenario": "attached_ordinance_adu",
+                    "max_height_ft": 25,
+                    "qualifier": "or the applicable zoning height limit, whichever is lower",
+                },
+                {
+                    "scenario": "detached_state_adu_default",
+                    "max_height_ft": 16,
+                    "qualifier": "baseline State detached ADU allowance",
+                },
+                {
+                    "scenario": "detached_state_adu_within_half_mile_of_major_transit_or_high_quality_transit",
+                    "max_height_ft": 18,
+                    "qualifier": "applies to qualifying transit proximity cases",
+                },
+                {
+                    "scenario": "detached_state_adu_with_qualifying_transit_and_aligned_roof_pitch",
+                    "max_height_ft": 20,
+                    "qualifier": "18 ft baseline plus 2 additional feet when roof pitch aligns with the primary dwelling",
+                },
+                {
+                    "scenario": "other_adu_contexts",
+                    "max_height_ft": None,
+                    "qualifier": "use applicable zoning height rules and specific ADU type context",
+                },
+            ],
+        }
         notes.append(
             "TODO: Height varies by ADU type and context. Attached ordinance ADUs may be up to 25 ft or zoning height, whichever is lower; detached State ADUs are generally 16 ft, 18 ft near qualifying transit, or 20 ft with an aligned roof pitch."
         )
@@ -296,7 +338,14 @@ def build_ruleset(documents: list[Document]) -> dict:
     side_setback_ft = 4 if four_foot_setback else None
 
     max_lot_coverage_pct = None
+    max_lot_coverage_pct_rule = None
     if re.search(r"lot coverage", authoritative_text, flags=re.IGNORECASE):
+        max_lot_coverage_pct_rule = {
+            "type": "zone_dependent",
+            "citywide_scalar_pct": None,
+            "rule": "Underlying zone lot coverage rules may apply, but they cannot preclude the minimum State ADU allowances described in current LA Planning guidance.",
+            "programmatic_interpretation": "Treat lot coverage as parcel-zoning dependent rather than a citywide constant; evaluate against the property's base zoning rules after applying State ADU minimum allowances.",
+        }
         notes.append(
             "TODO: Maximum lot coverage is zone-specific and not a single citywide percentage. ZA Memo 143 says lot coverage rules may still apply so long as they do not preclude minimum State ADU allowances."
         )
@@ -389,10 +438,13 @@ def build_ruleset(documents: list[Document]) -> dict:
         "min_lot_size_sqft": min_lot_size_sqft,
         "max_detached_adu_sqft": max_detached_adu_sqft,
         "max_attached_adu_sqft": max_attached_adu_sqft,
+        "max_attached_adu_sqft_rule": max_attached_adu_sqft_rule,
         "max_adu_height_ft": max_adu_height_ft,
+        "max_adu_height_ft_rule": max_adu_height_ft_rule,
         "rear_setback_ft": rear_setback_ft,
         "side_setback_ft": side_setback_ft,
         "max_lot_coverage_pct": max_lot_coverage_pct,
+        "max_lot_coverage_pct_rule": max_lot_coverage_pct_rule,
         "jadu_allowed": jadu_allowed,
         "jadu_max_sqft": jadu_max_sqft,
         "detached_adu_allowed": detached_adu_allowed,

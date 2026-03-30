@@ -1,0 +1,126 @@
+{
+  "property_id": "5006028013",
+  "created_at_utc": "2026-03-30T19:15:44.251140+00:00",
+  "workflow": {
+    "analysis_scope": "la_city_only",
+    "analysis_mode": "best_effort_v1",
+    "pipeline_version": "la_city_marketing_pipeline_v1",
+    "imagery_strategy": "hybrid_public_or_owned_for_client_google_for_internal_research",
+    "review_required": "yes",
+    "review_status": "pending_human_review",
+    "render_ready": "no",
+    "marketing_ready": "no"
+  },
+  "subject_property": {
+    "apn": "5006-028-013",
+    "address": "5750 5TH AVE, LOS ANGELES, CA, 90043",
+    "county": "LOS ANGELES",
+    "zoning": "LAR1",
+    "property_type": "SFR",
+    "lot_sqft": "5401",
+    "primary_sqft": "1664",
+    "units": "1",
+    "year_built": "1919",
+    "estimated_value": "830288",
+    "recommended_primary_adu_path": "detached_adu",
+    "analysis_confidence": "medium_high"
+  },
+  "adu_analysis": {
+    "allowed_adu_types": [
+      "attached_adu",
+      "detached_adu",
+      "jadu",
+      "garage_conversion_adu"
+    ],
+    "recommended_primary_adu_path": "detached_adu",
+    "approved_claims": [
+      "Attached ADU appears supportable under a best-effort LA City screening, pending site-specific diligence.",
+      "Detached ADU appears to be a strong candidate under this best-effort screen.",
+      "A JADU path appears possible if the primary residence layout can support it.",
+      "Garage conversion ADU remains a possible path if an eligible garage is confirmed."
+    ],
+    "constraints": [
+      "Detached ADU best-effort cap: 1200 square feet.",
+      "Attached ADU rule: 50% of existing primary dwelling floor area, with State-law minimum allowances up to 850 sf or 1,000 sf depending on bedroom count.",
+      "JADU cap: 500 square feet.",
+      "Rear setback baseline: 4 feet.",
+      "Side setback baseline: 4 feet.",
+      "Owner occupancy is not required for ADUs in the current LA City ruleset, but JADUs still require a deed-restriction owner-occupancy condition.",
+      "Transit-based parking exemptions and some height incentives may apply, but they are not parcel-verified in this pipeline.",
+      "Lot coverage is zone-dependent and not resolved from the PropertyRadar CSV alone."
+    ],
+    "review_warnings": [
+      "No parcel geometry in CSV, so detached fit and exact setbacks are not confirmed.",
+      "No building footprint data, so lot coverage is not confirmed.",
+      "No garage-specific field, so garage conversion is only screened as a possibility.",
+      "No parcel coordinates or transit join, so transit-based incentives are not evaluated per parcel.",
+      "No overlay join, so hillside, VHFHSZ, HPOZ, and specific-plan impacts are not evaluated per parcel."
+    ],
+    "analysis_notes": [
+      "LA City rules applied using a best-effort screen.",
+      "Property looks like a single-family residence with one unit, which matches the current v1 LA ADU screening model.",
+      "Detached ADU screening uses a conservative open-area proxy of lot square footage minus primary building square footage; this is a proxy, not a footprint measurement.",
+      "Current CSV zoning value retained as reference: LAR1.",
+      "Older home vintage may increase the chance of an existing garage, but garage presence is not confirmed from this export."
+    ],
+    "missing_data_reasons": [
+      "No parcel geometry in CSV, so detached fit and exact setbacks are not confirmed.",
+      "No building footprint data, so lot coverage is not confirmed.",
+      "No garage-specific field, so garage conversion is only screened as a possibility.",
+      "No parcel coordinates or transit join, so transit-based incentives are not evaluated per parcel.",
+      "No overlay join, so hillside, VHFHSZ, HPOZ, and specific-plan impacts are not evaluated per parcel."
+    ],
+    "detached_adu": {
+      "status": "strong_candidate",
+      "max_sqft": "1200",
+      "open_area_proxy_sqft": "3737"
+    },
+    "attached_adu": {
+      "status": "strong_candidate",
+      "best_effort_min_sqft": "850",
+      "best_effort_max_sqft": "1000",
+      "rule_summary": "50% of existing dwelling, with State-law allowance up to 850 sf or 1,000 sf depending on bedroom count."
+    },
+    "jadu": {
+      "status": "strong_candidate",
+      "max_sqft": "500"
+    },
+    "garage_conversion_adu": {
+      "status": "candidate"
+    }
+  },
+  "imagery": {
+    "selected_client_safe_assets": [],
+    "approved_research_references": [],
+    "research_only_links": [
+      "https://www.google.com/maps/search/?api=1&query=5750+5TH+AVE%2C+LOS+ANGELES%2C+CA%2C+90043",
+      "https://www.google.com/maps/search/?api=1&query=5750+5TH+AVE%2C+LOS+ANGELES%2C+CA%2C+90043",
+      "https://zimas.lacity.org/"
+    ],
+    "concept_render": {
+      "style_hint": "Reference early Los Angeles residential character such as bungalow, Spanish revival, or simple cottage forms, but keep the ADU clean and contemporary enough to read as a respectful addition.",
+      "program_summary": "Detached ADU concept up to 1200 sf; Attached ADU concept in the 850 to 1000+ sf best-effort range; JADU concept up to 500 sf; Garage conversion ADU concept if an existing qualifying garage is confirmed",
+      "disclaimer": "Conceptual / illustrative only. This is not an entitled design, permitted plan, construction drawing, or guaranteed development outcome."
+    }
+  },
+  "claude_handoff": {
+    "tone_prompt": "Write in a clear, warm, high-trust sales tone for homeowners. Be opportunity-oriented without hype. Never overclaim entitlement, cost, size, or buildability. Keep all render descriptions clearly labeled as conceptual and illustrative.",
+    "copy_constraints": [
+      "Use only the approved facts in this brief.",
+      "Do not claim that the parcel is fully feasible without further diligence.",
+      "Label all AI visuals as conceptual / illustrative only.",
+      "Do not present transit incentives, overlays, or garage conversions as confirmed unless marked approved.",
+      "End with a next-step CTA focused on property-specific feasibility review."
+    ],
+    "deliverables": {
+      "one_pager": {
+        "template_markdown": "# One-Pager Template\n\nUse this structure for a homeowner-facing ADU opportunity one-pager:\n\n1. Headline opportunity statement\n2. Property snapshot\n3. What may fit here\n4. Top ADU path to emphasize\n5. Supporting alternative paths\n6. Key caveats and diligence notes\n7. Concept render caption with illustrative disclaimer\n8. Next-step CTA\n\nRules:\n- Use only approved facts from the property brief.\n- Keep any concept render clearly labeled as illustrative only.\n- Do not state that entitlement, cost, or feasibility is guaranteed.\n",
+        "goal": "Produce a concise homeowner mailer / one-sheet from only the approved facts and claims in this brief."
+      },
+      "pitch_deck": {
+        "template_markdown": "# Pitch Deck Template\n\nUse this structure for a homeowner-facing ADU pitch deck:\n\n1. Title slide\n2. Property overview\n3. Lot and zoning context\n4. Likely ADU paths\n5. Recommended concept path\n6. Concept visual slide\n7. Constraints and diligence slide\n8. Next-step CTA slide\n\nRules:\n- Use only approved facts from the property brief.\n- Treat all renders as conceptual / illustrative only.\n- Surface uncertainty where parcel geometry, overlays, transit, or garage evidence are not confirmed.\n",
+        "goal": "Produce a homeowner-facing pitch deck narrative from only the approved facts and claims in this brief."
+      }
+    }
+  }
+}

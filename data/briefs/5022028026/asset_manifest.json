@@ -1,0 +1,55 @@
+{
+  "property_id": "5022028026",
+  "imagery_strategy": "hybrid_public_or_owned_for_client_google_for_internal_research",
+  "client_safe_imagery_strategy": "public_open_or_owned_only",
+  "approval_state": {
+    "review_required": "yes",
+    "review_status": "pending_human_review",
+    "client_safe_image_available": "no",
+    "research_imagery_available": "yes",
+    "render_ready": "no",
+    "marketing_ready": "no"
+  },
+  "research_only": [
+    {
+      "id": "google_maps_search",
+      "type": "link",
+      "url": "https://www.google.com/maps/search/?api=1&query=4346+3RD+AVE%2C+LOS+ANGELES%2C+CA%2C+90008",
+      "label": "Google Maps property search",
+      "approved_for_client_use": false,
+      "notes": "Internal research only. Use to review frontage, access, and neighborhood context."
+    },
+    {
+      "id": "google_maps_satellite",
+      "type": "link",
+      "url": "https://www.google.com/maps/search/?api=1&query=4346+3RD+AVE%2C+LOS+ANGELES%2C+CA%2C+90008",
+      "label": "Google Maps / Satellite review entry point",
+      "approved_for_client_use": false,
+      "notes": "Internal research only. Manually switch to satellite / aerial view as needed."
+    },
+    {
+      "id": "zimas_manual_lookup",
+      "type": "link",
+      "url": "https://zimas.lacity.org/",
+      "label": "ZIMAS manual lookup",
+      "approved_for_client_use": false,
+      "notes": "Use internal review to confirm zoning and overlays for 4346 3RD AVE, LOS ANGELES, CA, 90008."
+    }
+  ],
+  "client_safe": {
+    "approved_assets": [],
+    "recommended_assets_to_collect": [
+      "Owned exterior property photo",
+      "Public/open aerial or GIS parcel-context export with reuse rights verified",
+      "Generated parcel or massing diagram based on approved source data"
+    ],
+    "notes": "Do not rely on Google-owned imagery as the final client-facing asset by default."
+  },
+  "ai_mockup_inputs": {
+    "selected_path": "detached_adu",
+    "program_summary": "Detached ADU concept up to 1200 sf; Attached ADU concept in the 850 to 1000+ sf best-effort range; JADU concept up to 500 sf; Garage conversion ADU concept if an existing qualifying garage is confirmed",
+    "style_hint": "Reference early Los Angeles residential character such as bungalow, Spanish revival, or simple cottage forms, but keep the ADU clean and contemporary enough to read as a respectful addition.",
+    "disclaimer": "Conceptual / illustrative only. This is not an entitled design, permitted plan, construction drawing, or guaranteed development outcome.",
+    "prompt_file": "render_prompt.txt"
+  }
+}

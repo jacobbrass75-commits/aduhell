@@ -2,10 +2,56 @@
   "min_lot_size_sqft": 0,
   "max_detached_adu_sqft": 1200,
   "max_attached_adu_sqft": null,
+  "max_attached_adu_sqft_rule": {
+    "type": "formula",
+    "base_rule": "50% of the existing primary dwelling floor area",
+    "new_building_rule": "No fixed local square-foot cap when part of a new building, subject to other applicable zoning limits.",
+    "state_override_max_sqft": {
+      "studio_or_one_bedroom": 850,
+      "more_than_one_bedroom": 1000
+    },
+    "programmatic_interpretation": "Use the greater of the local 50% rule and the applicable State-law override, while respecting scenario-specific zoning constraints."
+  },
   "max_adu_height_ft": null,
+  "max_adu_height_ft_rule": {
+    "type": "conditional",
+    "cases": [
+      {
+        "scenario": "attached_ordinance_adu",
+        "max_height_ft": 25,
+        "qualifier": "or the applicable zoning height limit, whichever is lower"
+      },
+      {
+        "scenario": "detached_state_adu_default",
+        "max_height_ft": 16,
+        "qualifier": "baseline State detached ADU allowance"
+      },
+      {
+        "scenario": "detached_state_adu_within_half_mile_of_major_transit_or_high_quality_transit",
+        "max_height_ft": 18,
+        "qualifier": "applies to qualifying transit proximity cases"
+      },
+      {
+        "scenario": "detached_state_adu_with_qualifying_transit_and_aligned_roof_pitch",
+        "max_height_ft": 20,
+        "qualifier": "18 ft baseline plus 2 additional feet when roof pitch aligns with the primary dwelling"
+      },
+      {
+        "scenario": "other_adu_contexts",
+        "max_height_ft": null,
+        "qualifier": "use applicable zoning height rules and specific ADU type context"
+      }
+    ]
+  },
   "rear_setback_ft": 4,
   "side_setback_ft": 4,
   "max_lot_coverage_pct": null,
+  "max_lot_coverage_pct_rule": {
+    "type": "zone_dependent",
+    "citywide_scalar_pct": null,
+    "rule": "Underlying zone lot coverage rules may apply, but they cannot preclude the minimum State ADU allowances described in current LA Planning guidance.",
+    "programmatic_interpretation": "Treat lot coverage as parcel-zoning dependent rather than a citywide constant; evaluate against the property's base zoning rules after applying State ADU minimum allowances."
+  },
   "jadu_allowed": true,
   "jadu_max_sqft": 500,
   "detached_adu_allowed": true,
@@ -54,5 +100,5 @@
     "https://planning.lacity.gov/odocument/ec892d01-7873-455a-8e15-78a771b2c7ac/ADU_Memo_2020_Final_2.26.20_(1).pdf",
     "https://planning.lacity.gov/plans-policies/initiatives-policies/housing"
   ],
-  "last_scraped": "2026-03-26T22:25:38.272052+00:00"
+  "last_scraped": "2026-03-28T06:32:42.619283+00:00"
 }

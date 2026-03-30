@@ -1,0 +1,43 @@
+{
+  "total_rows": 531,
+  "breakdowns": {
+    "selected_adu_path_for_marketing": {
+      "attached_adu": 70,
+      "detached_adu": 415,
+      "jadu": 45,
+      "manual_review": 1
+    },
+    "analysis_confidence": {
+      "medium_high": 525,
+      "medium": 5,
+      "low": 1
+    },
+    "review_status": {
+      "pending_human_review": 531
+    },
+    "parcel_geometry_status": {
+      "not_joined": 531
+    },
+    "overlay_join_status": {
+      "not_joined": 531
+    },
+    "transit_join_status": {
+      "not_joined": 531
+    },
+    "garage_evidence_status": {
+      "not_joined": 531
+    },
+    "client_safe_image_available": {
+      "no": 531
+    },
+    "research_imagery_available": {
+      "yes": 531
+    },
+    "render_ready": {
+      "no": 531
+    },
+    "marketing_ready": {
+      "no": 531
+    }
+  }
+}

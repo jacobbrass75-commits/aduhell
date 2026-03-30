@@ -1,0 +1,3724 @@
+{
+  "created_at_utc": "2026-03-30T19:15:44.103430+00:00",
+  "input_csv": "data/enriched/Export-20260328-221034_la_city_enriched.csv",
+  "brief_count": 531,
+  "property_dirs": [
+    {
+      "property_id": "2429020022",
+      "dir": "data/briefs/2429020022",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4008016002",
+      "dir": "data/briefs/4008016002",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4019008005",
+      "dir": "data/briefs/4019008005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4101001001",
+      "dir": "data/briefs/4101001001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4101017027",
+      "dir": "data/briefs/4101017027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4106011008",
+      "dir": "data/briefs/4106011008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4127021024",
+      "dir": "data/briefs/4127021024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4221005035",
+      "dir": "data/briefs/4221005035",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4254009007",
+      "dir": "data/briefs/4254009007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4321014047",
+      "dir": "data/briefs/4321014047",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4370019066",
+      "dir": "data/briefs/4370019066",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4379033046",
+      "dir": "data/briefs/4379033046",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4429007001",
+      "dir": "data/briefs/4429007001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4429007032",
+      "dir": "data/briefs/4429007032",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5006032027",
+      "dir": "data/briefs/5006032027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5007030001",
+      "dir": "data/briefs/5007030001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5018035022",
+      "dir": "data/briefs/5018035022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5020024011",
+      "dir": "data/briefs/5020024011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5026012007",
+      "dir": "data/briefs/5026012007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5026013009",
+      "dir": "data/briefs/5026013009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5069013020",
+      "dir": "data/briefs/5069013020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5076006015",
+      "dir": "data/briefs/5076006015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5101037019",
+      "dir": "data/briefs/5101037019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5111010016",
+      "dir": "data/briefs/5111010016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5155033008",
+      "dir": "data/briefs/5155033008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5157021028",
+      "dir": "data/briefs/5157021028",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5217022008",
+      "dir": "data/briefs/5217022008",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5219012014",
+      "dir": "data/briefs/5219012014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5231014014",
+      "dir": "data/briefs/5231014014",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5433016007",
+      "dir": "data/briefs/5433016007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5453005005",
+      "dir": "data/briefs/5453005005",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5465020035",
+      "dir": "data/briefs/5465020035",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5501002007",
+      "dir": "data/briefs/5501002007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5512024004",
+      "dir": "data/briefs/5512024004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5517020002",
+      "dir": "data/briefs/5517020002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5526018006",
+      "dir": "data/briefs/5526018006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5551013013",
+      "dir": "data/briefs/5551013013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5576014034",
+      "dir": "data/briefs/5576014034",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5577035008",
+      "dir": "data/briefs/5577035008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5585018036",
+      "dir": "data/briefs/5585018036",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6002016008",
+      "dir": "data/briefs/6002016008",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6004040001",
+      "dir": "data/briefs/6004040001",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6013025012",
+      "dir": "data/briefs/6013025012",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6014022028",
+      "dir": "data/briefs/6014022028",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6018032028",
+      "dir": "data/briefs/6018032028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6033008020",
+      "dir": "data/briefs/6033008020",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6034024013",
+      "dir": "data/briefs/6034024013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6036020012",
+      "dir": "data/briefs/6036020012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6037009026",
+      "dir": "data/briefs/6037009026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6043011030",
+      "dir": "data/briefs/6043011030",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6051022016",
+      "dir": "data/briefs/6051022016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6065013029",
+      "dir": "data/briefs/6065013029",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6077006022",
+      "dir": "data/briefs/6077006022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6078024024",
+      "dir": "data/briefs/6078024024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6131005046",
+      "dir": "data/briefs/6131005046",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6132026022",
+      "dir": "data/briefs/6132026022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6132038003",
+      "dir": "data/briefs/6132038003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5185035002",
+      "dir": "data/briefs/5185035002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5556008026",
+      "dir": "data/briefs/5556008026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5527007017",
+      "dir": "data/briefs/5527007017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5006026015",
+      "dir": "data/briefs/5006026015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5044020005",
+      "dir": "data/briefs/5044020005",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5589022013",
+      "dir": "data/briefs/5589022013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5037009010",
+      "dir": "data/briefs/5037009010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5049011017",
+      "dir": "data/briefs/5049011017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4003005011",
+      "dir": "data/briefs/4003005011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4369035004",
+      "dir": "data/briefs/4369035004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5080022025",
+      "dir": "data/briefs/5080022025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6131006011",
+      "dir": "data/briefs/6131006011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5114012014",
+      "dir": "data/briefs/5114012014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6023016027",
+      "dir": "data/briefs/6023016027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4325003003",
+      "dir": "data/briefs/4325003003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5716030066",
+      "dir": "data/briefs/5716030066",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4405008003",
+      "dir": "data/briefs/4405008003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5002012025",
+      "dir": "data/briefs/5002012025",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5018014004",
+      "dir": "data/briefs/5018014004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6149018047",
+      "dir": "data/briefs/6149018047",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558021003",
+      "dir": "data/briefs/5558021003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5101017024",
+      "dir": "data/briefs/5101017024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "2380002033",
+      "dir": "data/briefs/2380002033",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4003002012",
+      "dir": "data/briefs/4003002012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6134007033",
+      "dir": "data/briefs/6134007033",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5108019020",
+      "dir": "data/briefs/5108019020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5231017012",
+      "dir": "data/briefs/5231017012",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4365010006",
+      "dir": "data/briefs/4365010006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5006027007",
+      "dir": "data/briefs/5006027007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5047004028",
+      "dir": "data/briefs/5047004028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5156004010",
+      "dir": "data/briefs/5156004010",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5062008010",
+      "dir": "data/briefs/5062008010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6063021009",
+      "dir": "data/briefs/6063021009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4057018004",
+      "dir": "data/briefs/4057018004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5581015013",
+      "dir": "data/briefs/5581015013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5524038022",
+      "dir": "data/briefs/5524038022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6017018023",
+      "dir": "data/briefs/6017018023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5561026021",
+      "dir": "data/briefs/5561026021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6031004010",
+      "dir": "data/briefs/6031004010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6032016031",
+      "dir": "data/briefs/6032016031",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5436015010",
+      "dir": "data/briefs/5436015010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5068012008",
+      "dir": "data/briefs/5068012008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6147005009",
+      "dir": "data/briefs/6147005009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5034005057",
+      "dir": "data/briefs/5034005057",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5443033019",
+      "dir": "data/briefs/5443033019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6090014005",
+      "dir": "data/briefs/6090014005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5042008014",
+      "dir": "data/briefs/5042008014",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6134014022",
+      "dir": "data/briefs/6134014022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6057008038",
+      "dir": "data/briefs/6057008038",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5439027001",
+      "dir": "data/briefs/5439027001",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5538014021",
+      "dir": "data/briefs/5538014021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6054018025",
+      "dir": "data/briefs/6054018025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4019003015",
+      "dir": "data/briefs/4019003015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4245018027",
+      "dir": "data/briefs/4245018027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4248018030",
+      "dir": "data/briefs/4248018030",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4370019067",
+      "dir": "data/briefs/4370019067",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5471019020",
+      "dir": "data/briefs/5471019020",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5050028041",
+      "dir": "data/briefs/5050028041",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5072031003",
+      "dir": "data/briefs/5072031003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4004017029",
+      "dir": "data/briefs/4004017029",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4109010015",
+      "dir": "data/briefs/4109010015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6078026013",
+      "dir": "data/briefs/6078026013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4493033076",
+      "dir": "data/briefs/4493033076",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5018023008",
+      "dir": "data/briefs/5018023008",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5104019025",
+      "dir": "data/briefs/5104019025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6032011014",
+      "dir": "data/briefs/6032011014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6083029014",
+      "dir": "data/briefs/6083029014",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5028017006",
+      "dir": "data/briefs/5028017006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5240010031",
+      "dir": "data/briefs/5240010031",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5215019003",
+      "dir": "data/briefs/5215019003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5109025017",
+      "dir": "data/briefs/5109025017",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5427003002",
+      "dir": "data/briefs/5427003002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5119013032",
+      "dir": "data/briefs/5119013032",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4007023011",
+      "dir": "data/briefs/4007023011",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6033024019",
+      "dir": "data/briefs/6033024019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5521034008",
+      "dir": "data/briefs/5521034008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5511003020",
+      "dir": "data/briefs/5511003020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4005024023",
+      "dir": "data/briefs/4005024023",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6083022018",
+      "dir": "data/briefs/6083022018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6039010018",
+      "dir": "data/briefs/6039010018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4360011006",
+      "dir": "data/briefs/4360011006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4377011022",
+      "dir": "data/briefs/4377011022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6014021012",
+      "dir": "data/briefs/6014021012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5050019030",
+      "dir": "data/briefs/5050019030",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5080022026",
+      "dir": "data/briefs/5080022026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5420008001",
+      "dir": "data/briefs/5420008001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558017043",
+      "dir": "data/briefs/5558017043",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5027012005",
+      "dir": "data/briefs/5027012005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5183027037",
+      "dir": "data/briefs/5183027037",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5116008025",
+      "dir": "data/briefs/5116008025",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6044020039",
+      "dir": "data/briefs/6044020039",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6033002016",
+      "dir": "data/briefs/6033002016",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5669016025",
+      "dir": "data/briefs/5669016025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6089010020",
+      "dir": "data/briefs/6089010020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6067021047",
+      "dir": "data/briefs/6067021047",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5081020011",
+      "dir": "data/briefs/5081020011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5029043032",
+      "dir": "data/briefs/5029043032",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5019003010",
+      "dir": "data/briefs/5019003010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5154014013",
+      "dir": "data/briefs/5154014013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4493028020",
+      "dir": "data/briefs/4493028020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5214006026",
+      "dir": "data/briefs/5214006026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4371037027",
+      "dir": "data/briefs/4371037027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5207020012",
+      "dir": "data/briefs/5207020012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5110023006",
+      "dir": "data/briefs/5110023006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5538007027",
+      "dir": "data/briefs/5538007027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5545007011",
+      "dir": "data/briefs/5545007011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5044024035",
+      "dir": "data/briefs/5044024035",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5464016025",
+      "dir": "data/briefs/5464016025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5009008016",
+      "dir": "data/briefs/5009008016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5247024025",
+      "dir": "data/briefs/5247024025",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5551009013",
+      "dir": "data/briefs/5551009013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558017055",
+      "dir": "data/briefs/5558017055",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4362011006",
+      "dir": "data/briefs/4362011006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5090031019",
+      "dir": "data/briefs/5090031019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5591019023",
+      "dir": "data/briefs/5591019023",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5057008027",
+      "dir": "data/briefs/5057008027",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5230008007",
+      "dir": "data/briefs/5230008007",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5570029023",
+      "dir": "data/briefs/5570029023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6040006010",
+      "dir": "data/briefs/6040006010",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5044025023",
+      "dir": "data/briefs/5044025023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5062024039",
+      "dir": "data/briefs/5062024039",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6342032028",
+      "dir": "data/briefs/6342032028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5006024023",
+      "dir": "data/briefs/5006024023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6040024021",
+      "dir": "data/briefs/6040024021",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5071022007",
+      "dir": "data/briefs/5071022007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5042034004",
+      "dir": "data/briefs/5042034004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5405013020",
+      "dir": "data/briefs/5405013020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5178019018",
+      "dir": "data/briefs/5178019018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5536022005",
+      "dir": "data/briefs/5536022005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5561004026",
+      "dir": "data/briefs/5561004026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4012001030",
+      "dir": "data/briefs/4012001030",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6033003023",
+      "dir": "data/briefs/6033003023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6067003034",
+      "dir": "data/briefs/6067003034",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6084005013",
+      "dir": "data/briefs/6084005013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6073003022",
+      "dir": "data/briefs/6073003022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558017016",
+      "dir": "data/briefs/5558017016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4007017003",
+      "dir": "data/briefs/4007017003",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4201031018",
+      "dir": "data/briefs/4201031018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6049004041",
+      "dir": "data/briefs/6049004041",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6087019031",
+      "dir": "data/briefs/6087019031",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5001037011",
+      "dir": "data/briefs/5001037011",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5033007005",
+      "dir": "data/briefs/5033007005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5439031023",
+      "dir": "data/briefs/5439031023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5510017023",
+      "dir": "data/briefs/5510017023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5053016018",
+      "dir": "data/briefs/5053016018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5522029025",
+      "dir": "data/briefs/5522029025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5422011010",
+      "dir": "data/briefs/5422011010",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5682014021",
+      "dir": "data/briefs/5682014021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6016020027",
+      "dir": "data/briefs/6016020027",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6029015015",
+      "dir": "data/briefs/6029015015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6040031021",
+      "dir": "data/briefs/6040031021",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6044003023",
+      "dir": "data/briefs/6044003023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5031010007",
+      "dir": "data/briefs/5031010007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5036029003",
+      "dir": "data/briefs/5036029003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5540024007",
+      "dir": "data/briefs/5540024007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5560016010",
+      "dir": "data/briefs/5560016010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6065015006",
+      "dir": "data/briefs/6065015006",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6036006023",
+      "dir": "data/briefs/6036006023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6134013021",
+      "dir": "data/briefs/6134013021",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5113027006",
+      "dir": "data/briefs/5113027006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5442019003",
+      "dir": "data/briefs/5442019003",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4492015017",
+      "dir": "data/briefs/4492015017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4246014028",
+      "dir": "data/briefs/4246014028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "2427007014",
+      "dir": "data/briefs/2427007014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5022012002",
+      "dir": "data/briefs/5022012002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "2425015007",
+      "dir": "data/briefs/2425015007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5206020002",
+      "dir": "data/briefs/5206020002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6036008012",
+      "dir": "data/briefs/6036008012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5571008003",
+      "dir": "data/briefs/5571008003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5216018039",
+      "dir": "data/briefs/5216018039",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5564011011",
+      "dir": "data/briefs/5564011011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5514010009",
+      "dir": "data/briefs/5514010009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5092016016",
+      "dir": "data/briefs/5092016016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5183001006",
+      "dir": "data/briefs/5183001006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4110022011",
+      "dir": "data/briefs/4110022011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5493029006",
+      "dir": "data/briefs/5493029006",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4235019018",
+      "dir": "data/briefs/4235019018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5089024009",
+      "dir": "data/briefs/5089024009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5080026011",
+      "dir": "data/briefs/5080026011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4362005018",
+      "dir": "data/briefs/4362005018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5465023024",
+      "dir": "data/briefs/5465023024",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5014015024",
+      "dir": "data/briefs/5014015024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6035031021",
+      "dir": "data/briefs/6035031021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5062007003",
+      "dir": "data/briefs/5062007003",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5221015009",
+      "dir": "data/briefs/5221015009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5015022034",
+      "dir": "data/briefs/5015022034",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5017017008",
+      "dir": "data/briefs/5017017008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5021004002",
+      "dir": "data/briefs/5021004002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5022028026",
+      "dir": "data/briefs/5022028026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5513014024",
+      "dir": "data/briefs/5513014024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558024016",
+      "dir": "data/briefs/5558024016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5549030002",
+      "dir": "data/briefs/5549030002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4201010010",
+      "dir": "data/briefs/4201010010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6059017010",
+      "dir": "data/briefs/6059017010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6078012022",
+      "dir": "data/briefs/6078012022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6052002025",
+      "dir": "data/briefs/6052002025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6057003002",
+      "dir": "data/briefs/6057003002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6058006028",
+      "dir": "data/briefs/6058006028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6338007018",
+      "dir": "data/briefs/6338007018",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6086035020",
+      "dir": "data/briefs/6086035020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6077006026",
+      "dir": "data/briefs/6077006026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6034012013",
+      "dir": "data/briefs/6034012013",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6130007028",
+      "dir": "data/briefs/6130007028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5570031009",
+      "dir": "data/briefs/5570031009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5007023020",
+      "dir": "data/briefs/5007023020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5015031014",
+      "dir": "data/briefs/5015031014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4019006020",
+      "dir": "data/briefs/4019006020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6060003007",
+      "dir": "data/briefs/6060003007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5475018029",
+      "dir": "data/briefs/5475018029",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558012013",
+      "dir": "data/briefs/5558012013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6035016014",
+      "dir": "data/briefs/6035016014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6077003037",
+      "dir": "data/briefs/6077003037",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6073028004",
+      "dir": "data/briefs/6073028004",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5483014018",
+      "dir": "data/briefs/5483014018",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6074007019",
+      "dir": "data/briefs/6074007019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5236002006",
+      "dir": "data/briefs/5236002006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6084005004",
+      "dir": "data/briefs/6084005004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4326017021",
+      "dir": "data/briefs/4326017021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6055024033",
+      "dir": "data/briefs/6055024033",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6078032005",
+      "dir": "data/briefs/6078032005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4379030014",
+      "dir": "data/briefs/4379030014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6017017013",
+      "dir": "data/briefs/6017017013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5023024006",
+      "dir": "data/briefs/5023024006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4102003040",
+      "dir": "data/briefs/4102003040",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5094021032",
+      "dir": "data/briefs/5094021032",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5007021016",
+      "dir": "data/briefs/5007021016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5044023002",
+      "dir": "data/briefs/5044023002",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5065018021",
+      "dir": "data/briefs/5065018021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5121014003",
+      "dir": "data/briefs/5121014003",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4003007021",
+      "dir": "data/briefs/4003007021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4057022005",
+      "dir": "data/briefs/4057022005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5529017037",
+      "dir": "data/briefs/5529017037",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5569037015",
+      "dir": "data/briefs/5569037015",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4012012010",
+      "dir": "data/briefs/4012012010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6016009018",
+      "dir": "data/briefs/6016009018",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4370027001",
+      "dir": "data/briefs/4370027001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6070008022",
+      "dir": "data/briefs/6070008022",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6134037019",
+      "dir": "data/briefs/6134037019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6090024002",
+      "dir": "data/briefs/6090024002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5002008027",
+      "dir": "data/briefs/5002008027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5007021017",
+      "dir": "data/briefs/5007021017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5046033005",
+      "dir": "data/briefs/5046033005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5068013007",
+      "dir": "data/briefs/5068013007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5110021005",
+      "dir": "data/briefs/5110021005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5309005014",
+      "dir": "data/briefs/5309005014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5422003003",
+      "dir": "data/briefs/5422003003",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5451016001",
+      "dir": "data/briefs/5451016001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5029025009",
+      "dir": "data/briefs/5029025009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5008007016",
+      "dir": "data/briefs/5008007016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6131011025",
+      "dir": "data/briefs/6131011025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5052026016",
+      "dir": "data/briefs/5052026016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6033012040",
+      "dir": "data/briefs/6033012040",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5114036006",
+      "dir": "data/briefs/5114036006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5172022010",
+      "dir": "data/briefs/5172022010",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5118019019",
+      "dir": "data/briefs/5118019019",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5202019012",
+      "dir": "data/briefs/5202019012",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5016009017",
+      "dir": "data/briefs/5016009017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5006028013",
+      "dir": "data/briefs/5006028013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5513029005",
+      "dir": "data/briefs/5513029005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5037002001",
+      "dir": "data/briefs/5037002001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5052027036",
+      "dir": "data/briefs/5052027036",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5131018002",
+      "dir": "data/briefs/5131018002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5559016011",
+      "dir": "data/briefs/5559016011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4008020020",
+      "dir": "data/briefs/4008020020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6075007013",
+      "dir": "data/briefs/6075007013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4370020030",
+      "dir": "data/briefs/4370020030",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5565022018",
+      "dir": "data/briefs/5565022018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558017059",
+      "dir": "data/briefs/5558017059",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6087014010",
+      "dir": "data/briefs/6087014010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6050033018",
+      "dir": "data/briefs/6050033018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6041016014",
+      "dir": "data/briefs/6041016014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6343025025",
+      "dir": "data/briefs/6343025025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6061034004",
+      "dir": "data/briefs/6061034004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5001001009",
+      "dir": "data/briefs/5001001009",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5013021012",
+      "dir": "data/briefs/5013021012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6015017011",
+      "dir": "data/briefs/6015017011",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6037005023",
+      "dir": "data/briefs/6037005023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5108016010",
+      "dir": "data/briefs/5108016010",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6055009008",
+      "dir": "data/briefs/6055009008",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6048031036",
+      "dir": "data/briefs/6048031036",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5034013012",
+      "dir": "data/briefs/5034013012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5206014011",
+      "dir": "data/briefs/5206014011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5217007025",
+      "dir": "data/briefs/5217007025",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6070007015",
+      "dir": "data/briefs/6070007015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5492039017",
+      "dir": "data/briefs/5492039017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6351032005",
+      "dir": "data/briefs/6351032005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5034018024",
+      "dir": "data/briefs/5034018024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5051031005",
+      "dir": "data/briefs/5051031005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5307002018",
+      "dir": "data/briefs/5307002018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6019013020",
+      "dir": "data/briefs/6019013020",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5561011013",
+      "dir": "data/briefs/5561011013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5220005006",
+      "dir": "data/briefs/5220005006",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6018007015",
+      "dir": "data/briefs/6018007015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5309019005",
+      "dir": "data/briefs/5309019005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5433016024",
+      "dir": "data/briefs/5433016024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5669012030",
+      "dir": "data/briefs/5669012030",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6020016018",
+      "dir": "data/briefs/6020016018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6067022023",
+      "dir": "data/briefs/6067022023",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6057008033",
+      "dir": "data/briefs/6057008033",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4019005013",
+      "dir": "data/briefs/4019005013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5301015034",
+      "dir": "data/briefs/5301015034",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6052020030",
+      "dir": "data/briefs/6052020030",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6035004016",
+      "dir": "data/briefs/6035004016",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5569023022",
+      "dir": "data/briefs/5569023022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5067005034",
+      "dir": "data/briefs/5067005034",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5493021005",
+      "dir": "data/briefs/5493021005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5528009012",
+      "dir": "data/briefs/5528009012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6014035008",
+      "dir": "data/briefs/6014035008",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5486012015",
+      "dir": "data/briefs/5486012015",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5526001017",
+      "dir": "data/briefs/5526001017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5021002025",
+      "dir": "data/briefs/5021002025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6031024014",
+      "dir": "data/briefs/6031024014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5587004004",
+      "dir": "data/briefs/5587004004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5561001019",
+      "dir": "data/briefs/5561001019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5526027005",
+      "dir": "data/briefs/5526027005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6004020025",
+      "dir": "data/briefs/6004020025",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6017031017",
+      "dir": "data/briefs/6017031017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5061022037",
+      "dir": "data/briefs/5061022037",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "2429011024",
+      "dir": "data/briefs/2429011024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4007013018",
+      "dir": "data/briefs/4007013018",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6090026024",
+      "dir": "data/briefs/6090026024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6004020027",
+      "dir": "data/briefs/6004020027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6044009030",
+      "dir": "data/briefs/6044009030",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5088002040",
+      "dir": "data/briefs/5088002040",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5033017002",
+      "dir": "data/briefs/5033017002",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4019006013",
+      "dir": "data/briefs/4019006013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6130002007",
+      "dir": "data/briefs/6130002007",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4109029014",
+      "dir": "data/briefs/4109029014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4214014012",
+      "dir": "data/briefs/4214014012",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4257016030",
+      "dir": "data/briefs/4257016030",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5005023021",
+      "dir": "data/briefs/5005023021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5003001011",
+      "dir": "data/briefs/5003001011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5006028026",
+      "dir": "data/briefs/5006028026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5083018015",
+      "dir": "data/briefs/5083018015",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5206021007",
+      "dir": "data/briefs/5206021007",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5422020004",
+      "dir": "data/briefs/5422020004",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4005027024",
+      "dir": "data/briefs/4005027024",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5033007022",
+      "dir": "data/briefs/5033007022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4107031036",
+      "dir": "data/briefs/4107031036",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5103025015",
+      "dir": "data/briefs/5103025015",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5223013016",
+      "dir": "data/briefs/5223013016",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4366010006",
+      "dir": "data/briefs/4366010006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5224025022",
+      "dir": "data/briefs/5224025022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4102015088",
+      "dir": "data/briefs/4102015088",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4103017028",
+      "dir": "data/briefs/4103017028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5462018025",
+      "dir": "data/briefs/5462018025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4358002001",
+      "dir": "data/briefs/4358002001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5556029010",
+      "dir": "data/briefs/5556029010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5592007040",
+      "dir": "data/briefs/5592007040",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4321014005",
+      "dir": "data/briefs/4321014005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6030025007",
+      "dir": "data/briefs/6030025007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6017024019",
+      "dir": "data/briefs/6017024019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6054018021",
+      "dir": "data/briefs/6054018021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6037004019",
+      "dir": "data/briefs/6037004019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6057002033",
+      "dir": "data/briefs/6057002033",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6147011026",
+      "dir": "data/briefs/6147011026",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4429028040",
+      "dir": "data/briefs/4429028040",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6086027022",
+      "dir": "data/briefs/6086027022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6035015011",
+      "dir": "data/briefs/6035015011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6018011008",
+      "dir": "data/briefs/6018011008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6036025005",
+      "dir": "data/briefs/6036025005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5037006013",
+      "dir": "data/briefs/5037006013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5064028007",
+      "dir": "data/briefs/5064028007",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5029004001",
+      "dir": "data/briefs/5029004001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5217015001",
+      "dir": "data/briefs/5217015001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5208023009",
+      "dir": "data/briefs/5208023009",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6351004022",
+      "dir": "data/briefs/6351004022",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6017027015",
+      "dir": "data/briefs/6017027015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5473015001",
+      "dir": "data/briefs/5473015001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5473031039",
+      "dir": "data/briefs/5473031039",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5479010021",
+      "dir": "data/briefs/5479010021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6050031011",
+      "dir": "data/briefs/6050031011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6065027047",
+      "dir": "data/briefs/6065027047",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6072009015",
+      "dir": "data/briefs/6072009015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6015023012",
+      "dir": "data/briefs/6015023012",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6037022008",
+      "dir": "data/briefs/6037022008",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6073002003",
+      "dir": "data/briefs/6073002003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5069025008",
+      "dir": "data/briefs/5069025008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5064026014",
+      "dir": "data/briefs/5064026014",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5206022018",
+      "dir": "data/briefs/5206022018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5244015026",
+      "dir": "data/briefs/5244015026",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5036020012",
+      "dir": "data/briefs/5036020012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5036021007",
+      "dir": "data/briefs/5036021007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5053032031",
+      "dir": "data/briefs/5053032031",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4012020006",
+      "dir": "data/briefs/4012020006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5062027034",
+      "dir": "data/briefs/5062027034",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4246021009",
+      "dir": "data/briefs/4246021009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5422009025",
+      "dir": "data/briefs/5422009025",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5229028022",
+      "dir": "data/briefs/5229028022",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5427030023",
+      "dir": "data/briefs/5427030023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5572035019",
+      "dir": "data/briefs/5572035019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6021016012",
+      "dir": "data/briefs/6021016012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6057004017",
+      "dir": "data/briefs/6057004017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6058005018",
+      "dir": "data/briefs/6058005018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6030027019",
+      "dir": "data/briefs/6030027019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6035007013",
+      "dir": "data/briefs/6035007013",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6059017014",
+      "dir": "data/briefs/6059017014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6059026006",
+      "dir": "data/briefs/6059026006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6052026032",
+      "dir": "data/briefs/6052026032",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5013025025",
+      "dir": "data/briefs/5013025025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6117018003",
+      "dir": "data/briefs/6117018003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6059021004",
+      "dir": "data/briefs/6059021004",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4426005005",
+      "dir": "data/briefs/4426005005",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6059019012",
+      "dir": "data/briefs/6059019012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5558016051",
+      "dir": "data/briefs/5558016051",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5570001008",
+      "dir": "data/briefs/5570001008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6058022010",
+      "dir": "data/briefs/6058022010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5028017001",
+      "dir": "data/briefs/5028017001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5472006008",
+      "dir": "data/briefs/5472006008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5571030020",
+      "dir": "data/briefs/5571030020",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5669022010",
+      "dir": "data/briefs/5669022010",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4370019044",
+      "dir": "data/briefs/4370019044",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4378012009",
+      "dir": "data/briefs/4378012009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5031011003",
+      "dir": "data/briefs/5031011003",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5551011012",
+      "dir": "data/briefs/5551011012",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4007005004",
+      "dir": "data/briefs/4007005004",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4003023007",
+      "dir": "data/briefs/4003023007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4004015019",
+      "dir": "data/briefs/4004015019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5431035007",
+      "dir": "data/briefs/5431035007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5504020014",
+      "dir": "data/briefs/5504020014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4366024023",
+      "dir": "data/briefs/4366024023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5569012036",
+      "dir": "data/briefs/5569012036",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4306014022",
+      "dir": "data/briefs/4306014022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4320005047",
+      "dir": "data/briefs/4320005047",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6033008019",
+      "dir": "data/briefs/6033008019",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4429006019",
+      "dir": "data/briefs/4429006019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6130001014",
+      "dir": "data/briefs/6130001014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5002005006",
+      "dir": "data/briefs/5002005006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4371003009",
+      "dir": "data/briefs/4371003009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5435015008",
+      "dir": "data/briefs/5435015008",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5493020019",
+      "dir": "data/briefs/5493020019",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5003004024",
+      "dir": "data/briefs/5003004024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6001023007",
+      "dir": "data/briefs/6001023007",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5034016024",
+      "dir": "data/briefs/5034016024",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6030032021",
+      "dir": "data/briefs/6030032021",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6050005018",
+      "dir": "data/briefs/6050005018",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5052020025",
+      "dir": "data/briefs/5052020025",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5227028045",
+      "dir": "data/briefs/5227028045",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5207016006",
+      "dir": "data/briefs/5207016006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5433017007",
+      "dir": "data/briefs/5433017007",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5480020009",
+      "dir": "data/briefs/5480020009",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5029013029",
+      "dir": "data/briefs/5029013029",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5034008028",
+      "dir": "data/briefs/5034008028",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5064012006",
+      "dir": "data/briefs/5064012006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5061027034",
+      "dir": "data/briefs/5061027034",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5466027014",
+      "dir": "data/briefs/5466027014",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6056014001",
+      "dir": "data/briefs/6056014001",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6058021006",
+      "dir": "data/briefs/6058021006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6058030011",
+      "dir": "data/briefs/6058030011",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6149027059",
+      "dir": "data/briefs/6149027059",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6006007019",
+      "dir": "data/briefs/6006007019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5436025015",
+      "dir": "data/briefs/5436025015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5008006031",
+      "dir": "data/briefs/5008006031",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5109009027",
+      "dir": "data/briefs/5109009027",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5459025022",
+      "dir": "data/briefs/5459025022",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6014029006",
+      "dir": "data/briefs/6014029006",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5507012015",
+      "dir": "data/briefs/5507012015",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6002015018",
+      "dir": "data/briefs/6002015018",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6027017023",
+      "dir": "data/briefs/6027017023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5480023001",
+      "dir": "data/briefs/5480023001",
+      "recommended_primary_adu_path": "jadu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6035027017",
+      "dir": "data/briefs/6035027017",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5466016012",
+      "dir": "data/briefs/5466016012",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6033003019",
+      "dir": "data/briefs/6033003019",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6351018030",
+      "dir": "data/briefs/6351018030",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6020007023",
+      "dir": "data/briefs/6020007023",
+      "recommended_primary_adu_path": "detached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5594004016",
+      "dir": "data/briefs/5594004016",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "6079020047",
+      "dir": "data/briefs/6079020047",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5406018059",
+      "dir": "data/briefs/5406018059",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5446007033",
+      "dir": "data/briefs/5446007033",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5457019033",
+      "dir": "data/briefs/5457019033",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5556005045",
+      "dir": "data/briefs/5556005045",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "5533038006",
+      "dir": "data/briefs/5533038006",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "4234014032",
+      "dir": "data/briefs/4234014032",
+      "recommended_primary_adu_path": "attached_adu",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    },
+    {
+      "property_id": "unknown-property",
+      "dir": "data/briefs/unknown-property",
+      "recommended_primary_adu_path": "manual_review",
+      "review_status": "pending_human_review",
+      "marketing_ready": "no"
+    }
+  ]
+}

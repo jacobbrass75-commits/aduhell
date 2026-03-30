@@ -1,0 +1,45 @@
+{
+  "total_rows": 531,
+  "breakdowns": {
+    "recommended_primary_adu_path": {
+      "attached_adu": 70,
+      "detached_adu": 415,
+      "jadu": 45,
+      "manual_review": 1
+    },
+    "attached_adu_status": {
+      "strong_candidate": 530,
+      "out_of_scope": 1
+    },
+    "detached_adu_status": {
+      "candidate": 115,
+      "strong_candidate": 415,
+      "out_of_scope": 1
+    },
+    "jadu_status": {
+      "strong_candidate": 451,
+      "candidate": 78,
+      "unlikely": 1,
+      "out_of_scope": 1
+    },
+    "garage_conversion_adu_status": {
+      "candidate": 530,
+      "out_of_scope": 1
+    },
+    "analysis_confidence": {
+      "medium_high": 525,
+      "medium": 5,
+      "low": 1
+    },
+    "city_rules_applied": {
+      "yes": 530,
+      "no": 1
+    },
+    "review_status": {
+      "pending_human_review": 531
+    },
+    "marketing_ready": {
+      "no": 531
+    }
+  }
+}
